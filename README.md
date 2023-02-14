@@ -20,6 +20,8 @@ The daily life of a PhD student may differ significantly from that of an undergr
 | 6 | Zhu Chaihua| |[:octocat:](./zhu-chaihua)|
 | 7 | Franklin Degadzor Ashigbi| |[:octocat:](./franklin)|
 
+## [Google Scholar- Dr MSO](https://scholar.google.com/citations?hl=en&user=QzgVq24AAAAJ&view_op=list_works&sortby=pubdate)
+
 # Publication 2023
 - [Aljabarti, Eman Attallah and Othman, Mohd Shahizan, Classification Students’ Attention in E-learning Using Machine Learning (January 8, 2023). The 2nd Global Trends in E-Learning Forum (GTEL 2023), Available at SSRN: https://ssrn.com/abstract=4320161 or http://dx.doi.org/10.2139/ssrn.4320161](https://ssrn.com/abstract=4320161)
 
