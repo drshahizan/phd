@@ -7,7 +7,9 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Research progress
+# The Daily Life of a PhD Student
+The daily life of a PhD student may differ significantly from that of an undergraduate or Masters student. There will be much more independence and very few 'taught' elements. A typical week will almost certainly include the same number of PhD study hours as a full-time job. This page will give you an idea of what daily routine will be like as a PhD student. You can see my students' sharing materials.
+
 | No | Name | Title |  File |
 | ----- | ----- | ------ | ------ | 
 | 1 | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | [:octocat:](./li-jing) |
