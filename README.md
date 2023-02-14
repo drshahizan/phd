@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Research progress
--[Dhekre Saber Saleh](./dhekre)
+- [Dhekre Saber Saleh](./dhekre)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-tutorial/issues) for any improvements, suggestions or errors in the content.
