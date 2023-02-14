@@ -12,7 +12,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 
 | No | Name | Title |  Github | Project |
 | ----- | ----- | ------ | :------: | :------: |
-| 1 | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | [:octocat:](./li-jing) | |
+| 1 | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | [:octocat:](./li-jing) | <a href="https://drive.google.com/file/d/1YhUN9XaIIE-WBlZLnfvROCpJ2cQ52pju/view?usp=share_link" ><img src="./images/calendar-24.svg" width="22px" height="22px" ></a> |
 | 2 | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | [:octocat:](./dhekre) |
 | 3 | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones | [:octocat:](./anwar) |
 | 4 | Li Haopeng | |[:octocat:](./haopeng)|
