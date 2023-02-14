@@ -1,2 +1,10 @@
 
 # say something
+
+As a PhD student, I am fully dedicated to pursuing research in the field of machine learning for healthcare applications. My primary focus is on designing a framework that can accurately predict thyroid disease using machine learning algorithms. This is an essential area of study given the prevalence of thyroid disorders and the significant impact they can have on an individual's health.
+
+I recently took a major step forward in my research by sending my first article to the Baghdad Science Journal. This was an exciting milestone for me, as it allowed me to share my findings with the broader research community and receive feedback from my peers. I am looking forward to continuing to publish my work in various academic journals in the future.
+
+In addition to submitting my first article, I have also successfully defended my research proposal, which has paved the way for me to move forward with my studies. Currently, I am in the process of working on my second article, which will delve deeper into the specifics of my proposed framework for thyroid disease prediction.
+
+Overall, I am passionate about utilizing machine learning techniques to advance healthcare and am eager to contribute to the field through my research. I am dedicated to continuing my studies and making a meaningful impact through my work.
