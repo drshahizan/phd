@@ -8,12 +8,12 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Research progress
-- [Dhekre Saber Saleh](./dhekre)
+- [Saleh Dhekre Saber Saleh](./dhekre)
 - [Li Jing](./li-jing)
 - [Li Haopeng](./haopeng)
 - [Zhu Linnan](./nancy)
 - [Zhu Chaihua](./zhu-chaihua)
-- [Anwar Said](./anwar)
+- [Anwar Said Salim Al Talaii](./anwar)
 - [Franklin Degadzor Ashigbi](./franklin)
 
 # Phd students
