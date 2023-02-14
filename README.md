@@ -13,6 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Li Haopeng](./haopeng)
 - [Zhu Linnan](./nancy)
 - [Zhu Chaihua](./zhu-chaihua)
+- [Anwar Said](./anwar)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-tutorial/issues) for any improvements, suggestions or errors in the content.
