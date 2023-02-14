@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Li Jing](./li-jing)
 - [Li Haopeng](./haopeng)
 - [Zhu Linnan](./nancy)
-- [Zhu Chaihua]()
+- [Zhu Chaihua](./zhu-chaihua)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-tutorial/issues) for any improvements, suggestions or errors in the content.
