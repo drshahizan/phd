@@ -8,7 +8,6 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Research progress
-## 📖 Phd: Proposal
 | No | Name | Title |  File |
 | ----- | ----- | ------ | ------ | 
 | 1 | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | [:octocat:](./li-jing) |
