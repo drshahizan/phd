@@ -16,7 +16,7 @@
 - 📫 [Awesome ML for Cybersecurity](https://github.com/goldboy225/awesome-ml-for-cybersecurity): A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
 📚 The plan to be accomplished:
-1. [Proposal writing and defense has been completed](https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ)
+1. [Proposal writing and defense have been completed](https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ)
 2. [SLR articles writing is on the way](https://github.com/users/drshahizan/projects/1/views/2)
 3. [Experimental papers is under the plan and to be written](https://github.com/users/drshahizan/projects/1/views/1)
 4. Balabala...
