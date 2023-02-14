@@ -14,6 +14,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Zhu Linnan](./nancy)
 - [Zhu Chaihua](./zhu-chaihua)
 - [Anwar Said](./anwar)
+- [Franklin Degadzor Ashigbi](./franklin)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-tutorial/issues) for any improvements, suggestions or errors in the content.
