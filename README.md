@@ -19,7 +19,7 @@ Don't forget to hit the :star: if you like this repo.
 | 7 | Franklin Degadzor Ashigbi| |[:octocat:](./franklin)|
 
 # Publication 2023
--[Aljabarti, Eman Attallah and Othman, Mohd Shahizan, Classification Students’ Attention in E-learning Using Machine Learning (January 8, 2023). The 2nd Global Trends in E-Learning Forum (GTEL 2023), Available at SSRN: https://ssrn.com/abstract=4320161 or http://dx.doi.org/10.2139/ssrn.4320161](https://ssrn.com/abstract=4320161)
+- [Aljabarti, Eman Attallah and Othman, Mohd Shahizan, Classification Students’ Attention in E-learning Using Machine Learning (January 8, 2023). The 2nd Global Trends in E-Learning Forum (GTEL 2023), Available at SSRN: https://ssrn.com/abstract=4320161 or http://dx.doi.org/10.2139/ssrn.4320161](https://ssrn.com/abstract=4320161)
 
 # Phd students
 ## Computer Science
