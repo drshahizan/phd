@@ -18,7 +18,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 | 4 | Li Haopeng | |[:octocat:](./haopeng)| <a href="https://github.com/users/drshahizan/projects/5" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 5 | Zhu Linnan |Factors Influencing the Informatization Construction of Public University  |[:octocat:](./zhulinnan)| <a href="https://github.com/users/drshahizan/projects/7" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 6 | Zhu Chaihua| |[:octocat:](./zhu-chaihua)| <a href="https://github.com/users/drshahizan/projects/3" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 7 | Franklin Degadzor Ashigbi| Insert your title |[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 7 | Franklin Degadzor Ashigbi| The post adoption determinants of sustained use of digital transformation in revenue mobilisation in Ghana|[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 
 ## [Google Scholar- Dr MSO](https://scholar.google.com/citations?hl=en&user=QzgVq24AAAAJ&view_op=list_works&sortby=pubdate)
 
