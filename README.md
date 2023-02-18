@@ -50,6 +50,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 | 2 | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | <a href="https://drive.google.com/drive/u/1/folders/128OOMGs6TJEXIsu1Xetfx19ZKxeekUXS" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | 3 | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones |   |
 
+## (Research Material)[https://github.com/drshahizan/research-material]
 
 
 ## Contribution 🛠️
