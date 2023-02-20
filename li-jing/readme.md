@@ -19,6 +19,7 @@
 1. [Proposal writing and defense have been completed](https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ)
 2. [SLR articles writing is on the way](https://github.com/users/drshahizan/projects/1/views/2)
 3. [Experimental papers is under the plan and to be written](https://github.com/users/drshahizan/projects/1/views/1)
+4. 😄 **[Draft SLR Paper is ready on 2023-02-20](https://drive.google.com/drive/u/1/folders/1pqL8sYNhdrhyIuMZ6XPYJnOUPvPxpZX3)**
 4. Balabala...
 
 
@@ -81,3 +82,34 @@ USING BAT AND ANT COLONY ALGORITHMS](https://www.researchgate.net/profile/Ouail-
 - Attacks: normal/attacks
 - Models: FNN, CNN
 - Result: (CNN-Focal) performed better with respect to accuracy, precision, F1 score and MCC score by as much as 24%, 39%, 39%, and 60%, respectively, compared to baseline model CNN-ORG over the Bot-IoT dataset. Its performance was also much better than some of the state-of-the art approaches that we compared.
+
+## 2023-02-18  
+**Journal paper**: [A deep learning approach for intrusion detection in Internet of Things using focal loss function](https://www.mdpi.com/2079-9292/12/4/930), by Chao Wang, Electronics 2023, 12(4), 930;
+- Keyword: **Semi-supervised learning**, Feature extraction, two-stage detectors
+- Idea: Semi-supervised anomaly detection algorithms for the cases with no attack labels, combined with two stage detectors. To be specific, the autoencoder (AE) is applied to extract representative features of normal data in the first step, and then two semi-supervised detectors, the **one-class support vector machine (OCSVM)** and **Gaussian mixture model (GMM)**, are trained on the derived features. The two detectors collaborate to detect anomalous samples. The OCSVM predicts the abnormal samples initially, and after that, the GMM is applied to recheck the misclassified samples further.
+- Datasets: Bot-IoT and IDS2018
+- Attacks: normal/attacks
+- Models: autoencoder (AE) for extracting representative features, OCSVM and GMM as the detectors to detect anormal cases.
+- Result: The results of the experiment indicate the effectiveness of the suggested approach. In one part, the AE boosts the performance of detectors. In another part, the combination method produces better results than a single detector.
+
+**Journal paper**: [Threats Detection in the Internet of Things Using Convolutional neural networks, long short-term memory, and gated recurrent units](https://www.researchgate.net/profile/Mohammad-Aljanabi/publication/368309410_Threats_Detection_in_the_Internet_of_Things_Using_Convolutional_neural_networks_long_short-term_memory_and_gated_recurrent_units/links/63e23f80f8cf684fe9760bb0/Threats-Detection-in-the-Internet-of-Things-Using-Convolutional-neural-networks-long-short-term-memory-and-gated-recurrent-units.pdf), by Naomi A. Bajao, © 2023 The Authors. Published by Mesopotamian Academic Press
+- Keyword:  Convolutional neural networks (CNNs), long shortterm memory (LSTM), and gated recurrent units (GRUs)
+- Idea: Comparison on three deep learning algorithms.
+interruption location techniques that utilise them.
+- Datasets: NSL-KDD
+
+**Journal paper**: [A two-stage intrusion detection method based on light gradient boosting machine and autoencoder](https://www.aimspress.com/article/doi/10.3934/mbe.2023301), by Hao Zhang et al., Mathematical Biosciences and Engineering, 2023, Volume 20, Issue 4: 6966-6992. doi: 10.3934/mbe.2023301
+- Keyword: RFE, Focal loss, LightGBM, autoencoder
+- Challenges: dimensionality, zero-day attack
+- Idea: Two-stage detectors. This paper proposes a novel detection framework based on light gradient boosting machine (LightGBM) and autoencoder.
+- Methodology: The **recursive feature elimination (RFE) method** is first used for dimensionality reduction in this framework. Then a **focal loss (FL) function** is introduced into the LightGBM classifier to boost the learning of difficult samples. Finally, a two-stage prediction step with LightGBM and autoencoder is performed. In the first stage, pre-decision is conducted with LightGBM. In the second stage, a residual is used to make a secondary decision for samples with a normal class.
+- Datasets: NSL-KDD and UNSWNB15
+- Future work: In future work, we will mainly focus on two aspects: First, since the threshold of the autoencoder is the key factor affecting the model, we will develop a method to set the threshold automatically. Second, we segment the attack types and adopt a suitable sampling method to further improve the model performance.
+
+**Journal paper**: [A new deep-learning with swarm based feature selection for intelligent intrusion detection for the Internet of things](https://www-sciencedirect-com.ezproxy.utm.my/science/article/pii/S2665917423000363), by R. Anushiya 2023, Measurement: Sensors, Available online 13 February 2023, 100700
+- Keyword: GA, FSO, CNN
+- Idea: GA-FR-CNN (Genetic Algorithm and Faster Recurrent Convolution Neural Network), a brand-new feature selection method for IDSs, Network dataset's complexities are greatly reduced and the usage of **AAFSO (Assimilated Artificial Fish Swarm Optimization)** method to improve recommended systems assisted in identifying characteristics that were important to the problem.
+- Datasets: Bot-IoT
+- Attacks: 
+- Models: 
+- Result: 
