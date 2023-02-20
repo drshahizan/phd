@@ -19,8 +19,10 @@
 1. [Proposal writing and defense have been completed](https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ)
 2. [SLR articles writing is on the way](https://github.com/users/drshahizan/projects/1/views/2)
 3. [Experimental papers is under the plan and to be written](https://github.com/users/drshahizan/projects/1/views/1)
-4. 😄 **[Draft SLR Paper is ready on 2023-02-20](https://drive.google.com/drive/u/1/folders/1pqL8sYNhdrhyIuMZ6XPYJnOUPvPxpZX3)**
 4. Balabala...
+
+😄 The work finished:
+1. **[Draft SLR Paper is ready on 2023-02-20](https://drive.google.com/drive/u/1/folders/1pqL8sYNhdrhyIuMZ6XPYJnOUPvPxpZX3)**
 
 
 📚 #[Literatures Daily](https://github.com/goldboy225/PhD-Journey/blob/main/Literatures%20Daily.md)
