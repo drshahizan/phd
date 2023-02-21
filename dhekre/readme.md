@@ -12,18 +12,12 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 
 # list of Journals
 
-[International Journal of Modelling, Identification and Control](https://www.inderscience.com/jhome.php?jcode=ijmic)
+1. [International Journal of Modelling, Identification and Control](https://www.inderscience.com/jhome.php?jcode=ijmic)
 
--- Editor in Chief
-Prof. Quan Min Zhu
-ISSN online
-1746-6180
-ISSN print
-1746-6172
 8 issues per year
 Subscription price
-
 Clarivate Analytics 2022
 JCI 0.25
 CiteScore
 2.9 (2021)
+[]their are no charges for publishing wif Inderscience, unless you require you're article to be Open Access (OA). 
