@@ -20,4 +20,4 @@ Clarivate Analytics 2022
 JCI 0.25
 CiteScore
 2.9 (2021)
-[]their are no charges for publishing wif Inderscience, unless you require you're article to be Open Access (OA). 
+-Their are no charges for publishing wif Inderscience, unless you require you're article to be Open Access (OA).
