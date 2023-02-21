@@ -17,6 +17,7 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
     + 8 issues per year
 Clarivate Analytics 2022
 CiteScore
+WoS and Scopus
 2.9 (2021)
 
     + Their are no charges for publishing wif Inderscience, unless you require you're article to be Open Access (OA).
