@@ -24,3 +24,24 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
     + **Topics covered include**
 Dynamic modelling theories/techniques/computational algorithms Application examples of teh above Novel and unconventional linear system modelling techniques
 System identification, particularly nonlinear system identification Model validation Various control techniques Nonlinear system control Robotics Mechatronic system modelling, identification and control Biological system modelling, identification and control Neural network, fuzzy logic enhanced modelling, identification and control Complementary medical system modelling and identification Wide range representative application examples Quantitative economic/financial and other social system modeling/identification
+
+2. [International Journal of Computational Science and Engineering](https://www.inderscience.com/jhome.php?jcode=ijcse)
+
+    +   6 issues per year
+    +   There are no charges for publishing with Inderscience, unless you require you're article to be Open Access (OA). 
+    +   **Topics covered include**
+Scientific and engineering computing, related/interdisciplinary applications
+Problem-solving environments, complex systems
+Advanced numerical computation and optimisation
+Parallel and distributed computing
+Programming models in GPU, multi/m any-core and cloud
+Quantum computing technologies and applications
+Distributed/federated information; knowledge management/discovery
+Blockchain
+Cyber security and cryptography
+Origami Engineering
+Performance modelling, evaluation and optimisation
+Modelling/simulation, visualisation
+Remote sensing and multi/hyperspectral imaging
+Big data mining/applications, data analytics algorithms/applications
+Machine learning, statistics, deep learning and artificial intelligence
