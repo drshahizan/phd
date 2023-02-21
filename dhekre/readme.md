@@ -29,6 +29,7 @@ System identification, particularly nonlinear system identification Model valida
 
     +   6 issues per year
     +   There are no charges for publishing with Inderscience, unless you require you're article to be Open Access (OA). 
+    +   * WoS and Scopus
     +   **Topics covered include**
 Scientific and engineering computing, related/interdisciplinary applications
 Problem-solving environments, complex systems
