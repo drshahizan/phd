@@ -11,6 +11,8 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 
 
 # list of Journals
+                    | Source Title | Index | APC | Issues per year |
+
 
 1. [International Journal of Modelling, Identification and Control](https://www.inderscience.com/jhome.php?jcode=ijmic)
 
