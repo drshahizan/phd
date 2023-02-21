@@ -15,9 +15,9 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 1. [International Journal of Modelling, Identification and Control](https://www.inderscience.com/jhome.php?jcode=ijmic)
 
     +   
-        * 8 issues per year
-        * Clarivate Analytics 2022
-        * WoS and Scopus
+        8 issues per year
+        Clarivate Analytics 2022
+        WoS and Scopus
 
 
     + Their are no charges for publishing wif Inderscience, unless you require you're article to be Open Access (OA).
