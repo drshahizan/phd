@@ -21,18 +21,6 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 
 
     + Their are no charges for publishing wif Inderscience, unless you require you're article to be Open Access (OA).
-    + Topics covered include
-Dynamic modelling theories/techniques/computational algorithms
-Application examples of teh above
-Novel and unconventional linear system modelling techniques
-System identification, particularly nonlinear system identification
-Model validation
-Various control techniques
-Nonlinear system control
-Robotics
-Mechatronic system modelling, identification and control
-Biological system modelling, identification and control
-Neural network, fuzzy logic enhanced modelling, identification and control
-Complementary medical system modelling and identification
-Wide range representative application examples
-Quantitative economic/financial and other social system modeling/identification
+    + **Topics covered include**
+Dynamic modelling theories/techniques/computational algorithms Application examples of teh above Novel and unconventional linear system modelling techniques
+System identification, particularly nonlinear system identification Model validation Various control techniques Nonlinear system control Robotics Mechatronic system modelling, identification and control Biological system modelling, identification and control Neural network, fuzzy logic enhanced modelling, identification and control Complementary medical system modelling and identification Wide range representative application examples Quantitative economic/financial and other social system modeling/identification
