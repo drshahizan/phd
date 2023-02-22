@@ -9,7 +9,7 @@ In addition to submitting my first article, I have also successfully defended my
 
 Overall, I am passionate about utilizing machine learning techniques to advance healthcare and am eager to contribute to the field through my research. I am dedicated to continuing my studies and making a meaningful impact through my work.
 #
-### [Critical thinking on Articles](#Critical-thinking-on-Articles) :thinking:
+### [Critical thinking on Articles](#Articles) :thinking:
  
 
 ### list of Journals
@@ -20,7 +20,7 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 
 #
 
-### Critical thinking on Articles
+### Articles
 
  ####  1. [A Novel Blunge Calibration Intelligent Feature Classification Model for the Prediction of Hypothyroid Disease](https://github.com/Zkri-Saber/PhD-Doucuments/blob/main/A%20Novel%20Blunge%20Calibration%20Intelligent%20Feature%20Classification%20Model%20for%20the%20Prediction%20of%20Hypothyroid%20Disease.md)
        
