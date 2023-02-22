@@ -11,9 +11,9 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 
 
 # list of Journals
-                    | Source Title | Index | APC | Issues per year |
-                    |--------------|-------|-----|-----------------|
-                    |test          | WoS   | No  | 8               |
+| Source Title | Index | APC | Issues per year |
+|--------------|-------|-----|-----------------|
+|test          | WoS   | No  | 8               |
                     
                     
 | First Header  | Second Header |
