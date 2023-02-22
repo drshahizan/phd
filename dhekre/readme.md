@@ -13,7 +13,7 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 # list of Journals
 |No| Source Title | Index | APC | Issues per year | Link |Topics covered|
 |--|---|---|---|---|---|---|
-|1|International Journal of Modelling, Identification and Control|WoS & Scopus|No|8|[Source](https://www.inderscience.com/jhome.php?jcode=ijmic)| |
+|1|International Journal of Modelling, Identification and Control|WoS & Scopus|No|8|[Source](https://www.inderscience.com/jhome.php?jcode=ijmic)| identification and control Neural network, fuzzy logic enhanced modelling|
 |2|International Journal of Computational Science and Engineering|WoS & Scopus|No|6|[Source](https://www.inderscience.com/jhome.php?jcode=ijcse)|applications Machine learning, statistics, deep learning and artificial intelligence|                 
                     
 
@@ -27,21 +27,4 @@ System identification, particularly nonlinear system identification Model valida
 
 2. 
 
-     *  6 issues per year
-     *  There are no charges for publishing with Inderscience, unless you require you're article to be Open Access (OA). 
-     * WoS and Scopus
-     *  **Topics covered include**
-Scientific and engineering computing, related/interdisciplinary applications
-Problem-solving environments, complex systems
-Advanced numerical computation and optimisation
-Parallel and distributed computing
-Programming models in GPU, multi/m any-core and cloud
-Quantum computing technologies and applications
-Distributed/federated information; knowledge management/discovery
-Blockchain
-Cyber security and cryptography
-Origami Engineering
-Performance modelling, evaluation and optimisation
-Modelling/simulation, visualisation
-Remote sensing and multi/hyperspectral imaging
 
