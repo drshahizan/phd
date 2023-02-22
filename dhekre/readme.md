@@ -13,8 +13,8 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 # list of Journals
 | No | Source Title | Index | APC | Issues per year | Link |
 |----|--------------|-------|-----|-----------------|------|
-| 1  |International Journal of Modelling, Identification and Control| WoS & Scopus| No | 8 |[source](https://www.inderscience.com/jhome.php?jcode=ijmic)|
-                    
+| 1  |International Journal of Modelling, Identification and Control| WoS & Scopus| No |8|[Source](https://www.inderscience.com/jhome.php?jcode=ijmic)|
+| 2  |International Journal of Computational Science and Engineering| WoS & Scopus| NO |6|[Source](https://www.inderscience.com/jhome.php?jcode=ijcse)|                 
                     
 
 
@@ -32,7 +32,7 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 Dynamic modelling theories/techniques/computational algorithms Application examples of teh above Novel and unconventional linear system modelling techniques
 System identification, particularly nonlinear system identification Model validation Various control techniques Nonlinear system control Robotics Mechatronic system modelling, identification and control Biological system modelling, identification and control Neural network, fuzzy logic enhanced modelling, identification and control Complementary medical system modelling and identification Wide range representative application examples Quantitative economic/financial and other social system modeling/identification
 
-2. [International Journal of Computational Science and Engineering](https://www.inderscience.com/jhome.php?jcode=ijcse)
+2. 
 
      *  6 issues per year
      *  There are no charges for publishing with Inderscience, unless you require you're article to be Open Access (OA). 
