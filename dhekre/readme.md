@@ -9,7 +9,7 @@ In addition to submitting my first article, I have also successfully defended my
 
 Overall, I am passionate about utilizing machine learning techniques to advance healthcare and am eager to contribute to the field through my research. I am dedicated to continuing my studies and making a meaningful impact through my work.
 #
-## [Critical thinking on Articles](Critical-thinking-on-Articles)
+## [Critical thinking on Articles](#Critical-thinking-on-Articles)
  
 
 ## list of Journals
