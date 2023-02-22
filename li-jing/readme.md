@@ -9,6 +9,7 @@
 📚 Here are some topics in my repos:
 
 - 📚 [The Things of PhD Journey](https://github.com/goldboy225/PhD-Journey): All the things involving research knowledge, publication, practical skills, awesome courses, domain area expertise, and all the necessary and interesting things will be collected and synthesized for who want to try and pursue the PhD journey (will keep updating).
+- 📚 [Daily Literature Review](https://github.com/goldboy225/PhD-Journey/blob/main/Literatures%20Daily.md): This is the repository for daily literature review to collect the-state-of-the art ideas and methodologies in academia and provide future research directions.
 - 🔭 [Code Base for Research](https://github.com/goldboy225/Code-Base-for-Research): The coding practice involving data cleaning, data visualization, exploration data analysis, feature selection, machine learning and deep learning.
 - 📫 [ChatGPT for Research](https://github.com/goldboy225/ChatGPT-for-Research): Repo for the stuff that created by ChatGPT, let's see how ChatGPT can help on research work.
 - 🌱 [Construction of IoT Security Frameworks](https://github.com/goldboy225/Intelligent-IoT-Security-Frameworks): This is the coding practice repo of constructing end-to-end machine learning and deep learning-based security frameworks for IoT security.
@@ -31,6 +32,8 @@
 - [2023-02-16 ](#2023-02-16)
 - [2023-02-17 ](#2023-02-17)
 - [2023-02-18 ](#2023-02-18)
+- ...
+- [2023-02-22 ](#2023-02-22)
 
 
 ## 2023-02-16  
@@ -115,3 +118,31 @@ interruption location techniques that utilise them.
 - Attacks: 
 - Models: 
 - Result: 
+
+## 2023-02-22
+[A Survey: Network Feature Measurement Based on Machine Learning](https://www.mdpi.com/2076-3417/13/4/2551) by Muyi Sun et al., Appl. Sci. 2023, 13(4), 2551; https://doi.org/10.3390/app13042551
+- Keyword: network management, machine learning
+- Idea: ML applications in the field of network measurement
+
+[Anomaly based network intrusion detection for IoT attacks using deep learning technique](https://www-sciencedirect.com.ezproxy.utm.my/science/article/pii/S0045790623000514)by Bhawana Sharma, Computers and Electrical Engineering Volume 107, April 2023, 108626
+- Keyword: Feature selection by DNN, various tuning on hyper parameters, GAN for class imbalance
+- Idea: **a filter-based feature selection Deep Neural Network (DNN)** model where highly correlated features are dropped has been presented, further, the model is **tuned with various parameters and hyper parameters**, **Generative Adversarial Networks (GANs)** were used to generate synthetic data of minority attacks to resolve class imbalance issues in the dataset and achieved 91% accuracy with balanced class dataset.
+- Datasets: UNSW-NB15
+
+[Android-IoT Malware Classification and Detection Approach Using Deep URL Features Analysis](https://www.igi-global.com/article/android-iot-malware-classification-and-detection-approach-using-deep-url-features-analysis/318414) by Farhan Ullah et al, Journal of Database Management (JDM) 34(2)
+- Idea: Malware classification on encrypt application traffic with URL
+
+[A NOVEL APPROACH FOR A NEW MECHANISM IN NETWORK INTRUSION DETECTION SYSTEM ](https://www.journal-dogorangsang.in/no_1_Online_23/16_feb.pdf) by PACHIPULUSU RENUKA DEVI et al., Dogo Rangsang Research Journal 2023
+- Keyword: ANN, SVM, wrapper feature selection
+- Idea: comparison between ANN and SVM with wrapper FS, and ANN outperformed SVM.
+- Datasets: NSL-KDD
+
+[CSK-CNN: Network Intrusion Detection Model Based on Two-Layer Convolution Neural Network for Handling Imbalanced Dataset](https://www.mdpi.com/2078-2489/14/2/130) by Jiaming Song et al., Information 2023, 14(2), 130; https://doi.org/10.3390/info14020130
+- Problem: The performance of classifier is not very good in identifying abnormal traffic for **minority classes**.
+- Keyword: minority classes, two-layer classifier, 
+- Idea: CSK combines the cluster based Synthetic Minority Over Sampling Technique (Cluster-SMOTE) and K-means based under sampling algorithm. Through the **two-layer network**, abnormal traffic can not only be identified, but also be classified into **specific attack types**.
+- Datasets: UNSW-NB15 and CICIDS2017
+- Attacks: layer1 for abnormal, layer2 for specific attacks
+- Metrics: accuracy, recall, precision, F1-score, ROC curve, AUC value, training time and testing time
+- Results: The experiment shows that the proposed CSK-CNN in this paper is obviously superior to other comparison algorithms in terms of network intrusion detection performance, and is suitable for deployment in the real network environment.
+
