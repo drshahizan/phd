@@ -17,7 +17,11 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 |--|---|---|---|---|---|---|
 |1|International Journal of Modelling, Identification and Control|WoS & Scopus|No|8|[:arrow_upper_right:](https://www.inderscience.com/jhome.php?jcode=ijmic)| Identification and control Neural network, fuzzy logic enhanced modelling|
 |2|International Journal of Computational Science and Engineering|WoS & Scopus|No|6|[:arrow_upper_right:](https://www.inderscience.com/jhome.php?jcode=ijcse)|Applications Machine learning, statistics, deep learning and artificial intelligence|
-|1|International Journal of Intelligent Systems Technologies and Applications|WoS & Scopus|No|4|[:arrow_upper_right:](https://www.inderscience.com/jhome.php?jcode=ijista)|Artificial intelligence and knowledge based systems technologies|
+|3|International Journal of Intelligent Systems Technologies and Applications|WoS & Scopus|No|4|[:arrow_upper_right:](https://www.inderscience.com/jhome.php?jcode=ijista)|Artificial intelligence and knowledge based systems technologies|
+|4|PLoS One|WoS & Scopus|1380$|12|[:arrow_upper_right:](https://journals.plos.org/plosone/)|
+
+
+
 
 #
 
