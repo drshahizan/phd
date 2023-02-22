@@ -12,8 +12,8 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 
 # list of Journals
 | No | Source Title | Index | APC | Issues per year | Link |
-|----|--------------|-------|-----|-----------------|
-| 1  |International Journal of Modelling, Identification and Control| WoS & Scopus  | No  | 8 |[source](https://www.inderscience.com/jhome.php?jcode=ijmic) |
+|----|--------------|-------|-----|-----------------|------|
+| 1  |International Journal of Modelling, Identification and Control| WoS & Scopus| No | 8 |[source](https://www.inderscience.com/jhome.php?jcode=ijmic)|
                     
                     
 
