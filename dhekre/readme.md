@@ -9,7 +9,7 @@ In addition to submitting my first article, I have also successfully defended my
 
 Overall, I am passionate about utilizing machine learning techniques to advance healthcare and am eager to contribute to the field through my research. I am dedicated to continuing my studies and making a meaningful impact through my work.
 #
-### [Critical thinking on Articles](#Critical-thinking-on-Articles)
+### [Critical thinking on Articles](#Critical-thinking-on-Articles) :thinking:
  
 
 ### list of Journals
@@ -18,8 +18,7 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 |1|International Journal of Modelling, Identification and Control|WoS & Scopus|No|8|[:arrow_upper_right:](https://www.inderscience.com/jhome.php?jcode=ijmic)| Identification and control Neural network, fuzzy logic enhanced modelling|
 |2|International Journal of Computational Science and Engineering|WoS & Scopus|No|6|[:arrow_upper_right:](https://www.inderscience.com/jhome.php?jcode=ijcse)|Applications Machine learning, statistics, deep learning and artificial intelligence|                
 
-
-
+#
 
 ### Critical thinking on Articles
 
