@@ -22,4 +22,4 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 
 ### Critical thinking on Articles
 
-1. A Novel Blunge Calibration Intelligent Feature Classification Model for the Prediction of Hypothyroid Disease
+1. #### A Novel Blunge Calibration Intelligent Feature Classification Model for the Prediction of Hypothyroid Disease
