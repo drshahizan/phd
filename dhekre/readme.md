@@ -14,17 +14,4 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 |No| Source Title | Index | APC | Issues per year | Link |Topics covered|
 |--|---|---|---|---|---|---|
 |1|International Journal of Modelling, Identification and Control|WoS & Scopus|No|8|[Source](https://www.inderscience.com/jhome.php?jcode=ijmic)| identification and control Neural network, fuzzy logic enhanced modelling|
-|2|International Journal of Computational Science and Engineering|WoS & Scopus|No|6|[Source](https://www.inderscience.com/jhome.php?jcode=ijcse)|applications Machine learning, statistics, deep learning and artificial intelligence|                 
-                    
-
-
-
-
-
-    
-Dynamic modelling theories/techniques/computational algorithms Application examples of teh above Novel and unconventional linear system modelling techniques
-System identification, particularly nonlinear system identification Model validation Various control techniques Nonlinear system control Robotics Mechatronic system modelling, identification and control Biological system modelling, identification and control Neural network, fuzzy logic enhanced modelling, identification and control Complementary medical system modelling and identification Wide range representative application examples Quantitative economic/financial and other social system modeling/identification
-
-2. 
-
-
+|2|International Journal of Computational Science and Engineering|WoS & Scopus|No|6|[Source](https://www.inderscience.com/jhome.php?jcode=ijcse)|applications Machine learning, statistics, deep learning and artificial intelligence|                
