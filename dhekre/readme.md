@@ -10,7 +10,7 @@ In addition to submitting my first article, I have also successfully defended my
 Overall, I am passionate about utilizing machine learning techniques to advance healthcare and am eager to contribute to the field through my research. I am dedicated to continuing my studies and making a meaningful impact through my work.
 
 
-## - list of Journals
+## list of Journals
 |No| Source Title | Index | APC | Issues per year | Link |Topics covered|
 |--|---|---|---|---|---|---|
 |1|International Journal of Modelling, Identification and Control|WoS & Scopus|No|8|[Source](https://www.inderscience.com/jhome.php?jcode=ijmic)| identification and control Neural network, fuzzy logic enhanced modelling|
