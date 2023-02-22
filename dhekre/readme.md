@@ -1,5 +1,5 @@
 
-# My PhD Journey
+# My PhD Journey :writing_hand:
 
 As a PhD student, I am fully dedicated to pursuing research in the field of machine learning for healthcare applications. My primary focus is on designing a framework that can accurately predict thyroid disease using machine learning algorithms. This is an essential area of study given the prevalence of thyroid disorders and the significant impact they can have on an individual's health.
 
