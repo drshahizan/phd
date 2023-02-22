@@ -11,18 +11,15 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 
 
 # list of Journals
-| Source Title | Index | APC | Issues per year |
-|--------------|-------|-----|-----------------|
-|test          | WoS   | No  | 8               |
+| No | Source Title | Index | APC | Issues per year | Link |
+|----|--------------|-------|-----|-----------------|
+| 1  |test          | WoS   | No  | 8               |[International Journal of Modelling, Identification and Control](https://www.inderscience.com/jhome.php?jcode=ijmic) |
                     
                     
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
-1. [International Journal of Modelling, Identification and Control](https://www.inderscience.com/jhome.php?jcode=ijmic)
+
+1. 
 
     +   
         8 issues per year
