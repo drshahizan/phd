@@ -19,7 +19,7 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 |2|International Journal of Computational Science and Engineering|WoS & Scopus|No|6|[:arrow_upper_right:](https://www.inderscience.com/jhome.php?jcode=ijcse)|Applications Machine learning, statistics, deep learning and artificial intelligence|
 |3|International Journal of Intelligent Systems Technologies and Applications|WoS & Scopus|No|4|[:arrow_upper_right:](https://www.inderscience.com/jhome.php?jcode=ijista)|Artificial intelligence and knowledge based systems technologies|
 |4|PLoS One|WoS & Scopus|1380$|12|[:arrow_upper_right:](https://journals.plos.org/plosone/)|science, engineering, medicine, and the related social sciences and humanities|
-|5|Journal of King Saud University - Computer and Information Sciences|WoS (IF 8.839) & Scopus(Q1)|$1350|10|[:arrow_upper_right:](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences)|Machine Learning, Natural Language Processing, Internet of Things, Bioinformatics, etc...|
+|5|Journal of King Saud University - Computer and Information Sciences|WoS (IF 8.839) & Scopus(Q1)|$1350|10|[:arrow_upper_right:](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences)|Machine Learning, Natural Language Processing, Internet of Things, Bioinformatics, etc.|
 
 
 
