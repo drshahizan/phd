@@ -35,6 +35,8 @@
 - ...
 - [2023-02-22 ](#2023-02-22)
 - [2023-02-23](#2023-02-23)
+- [2023-02-24](#2023-02-24)
+- 
 
 
 ## 2023-02-16  
@@ -159,3 +161,41 @@ interruption location techniques that utilise them.
 - Results: The results indicate that the **XGBoost ensemble showed superior performance** with the highest accuracy over other models across the datasets in detecting and classifying IIoT attacks.
 - Limitations: One of the major limitations of the proposed model is **the inability to deal with the class imbalance** that arises from the datasets used to test the performance of the proposed model.
 - Future directions: 1. make use of **imbalanced algorithms** to balance the dataset. 2. focus on applying **deep learning models to optimize their hyper-parameters** to improve the dataset classification performance for the IDS. 3. The proposed model will be applied to **other IIoT-based datasets**.
+
+## 2023-02-24
+[Flow-based intrusion detection system in Vehicular Ad hoc Network using context-aware feature extraction](https://www-sciencedirect-com.ezproxy.utm.my/science/article/pii/S2214209623000153) by Erfan A. Shams et al., 2023 Vehicular Communications
+- Problem: The safety that is provided by VANETs can be easily compromised by malicious users. Hence there is a need for an Intrusion Detection System (IDS).
+- Keyword: Vehicular Ad hoc Network (VANET), IDS, CNN, 
+- Idea: We designed an IDS model that can collect network data cooperatively from vehicles and Roadside Units (RSUs).
+- Methodology: employed a **multi-class IDS** using **Convolutional Neural Network (CNN)** with a novel feature extraction method known as **Context-Aware Feature Extraction-Based CNN (CAFECNN)**
+- Results: The results show that the proposed model is stronger in identification of **hard-to-detect passive attacks** compared to traditional machine learning methods. 
+- Future directions: work on the **feature extraction method** to ensure that it can unify the most popular network data collection methods into a single format that can be employed for developing or extending the capability of existing IDS models **without the need to restructure the entire system**. This includes applying the system to other types of networks such as wireless sensor networks.
+
+[A Machine Learning-Based Intrusion Detection System for IoT Electric Vehicle Charging Stations (EVCSs)](https://www.mdpi.com/2079-9292/12/4/1044)
+- Problem: The risks associated with cyber-attacks on IoT systems are also increasing at the same pace.
+- Keyword: electric vehicle charging station management systems (EVCSMSs), IDS, IoT, machine learning
+- Idea: **IDS using machine learning models applied on EVCS industry.**
+- Methodology: The proposed system uses a real IoT dataset derived from real IoT traffic. Multiple classifying algorithms are evaluated. Results were obtained on both binary and multiclass traffic models.
+- Datasets: IoT-23
+- Classification: binary and multi-classification
+- Metrics: precision, recall, and F-1 score
+- Limitations: Did not use DLs, building model offline, just use IoT-23 dataset and will try real data from EVC, also other datasets.
+- Results: The proposed algorithm can also be applied to any **critical industrial control system (ICS)**, such as **SCADA systems** and **green hydrogen control systems**, to enhance their security resilience as they were originally built without taking security into consideration.
+- Limitations: One of the major limitations of the proposed model is **the inability to deal with the class imbalance** that arises from the datasets used to test the performance of the proposed model.
+- Future directions: 1. build a **dedicated dataset for EVCSs**. 2. find the **minimum amount of data** to be used in training while preserving the same accuracy level 3. measuring the **impact of feature selection** and consider **new methodological steps to developing deep learning models**.
+
+[Intrusion detection model of Internet of Things based on LightGBM](https://www.jstage.jst.go.jp/article/transcom/advpub/0/advpub_2022EBP3169/_pdf) by Guosheng Zhao et al., 2023 IEICE Transactions on Communications
+- Problem: Traditional intrusion detection systems (IDS) focus on high accuracy and low false alarm rate (FAR), making them often have **too high spatiotemporal complexity** to be deployed in IoT devices.
+- Keyword: CNN, LightGBM, IDS, IoT
+- Idea: an intrusion detection model of IoT based on the **light gradient boosting machine (LightGBM)**
+- Methodology: The proposed method was evaluated using the NSL-KDD dataset (KDD TEST PLUS and KDD TEST21) for validation and testing. Many efficient features were selected using an enhanced technique, namely, the **particle swarm optimization**. The selected features serve for effective classification using **an enhanced LSTM framework**, where it is used to efficiently classify and detect the attack data from the normal data.
+- Datasets: NSL-KDD, UNSW-NB15, CICIDS2017, CSE-CIC-IDS2018, and BOT _DATASET
+- Classification: binary and multi-classification
+- Metrics: accuracy, precision, recall, and error rate
+- Results: Results show that **the training time** of the proposed system is much less than that of other methods for different classes. Finally, the performance of the proposed ELSTM-RNN framework is analyzed using various metrics, such as accuracy, precision, recall, and error rate. Our proposed method outperformed LPBoost and DNNs methods.
+- Future directions: The use of XAI algorithms to interpret and develop the provided PSO-driven strategy, 
+
+[Optimization of Intrusion Detection Using Likely Point PSO and Enhanced LSTM-RNN Hybrid Technique in Communication Networks](https://ieeexplore-ieee-org.ezproxy.utm.my/stamp/stamp.jsp?arnumber=10026342) by AHMED ABD EL-BASET DONKOL et al., 2023
+- Problem: inefficient against new/distinct attacks, IDS has various problems involving gradient vanishing, generalization, and overfitting issues.
+- Idea: **the enhanced long-short term memory (ELSTM) technique** with **recurrent neural network (RNN)** (ELSTM-RNN) to enhance security in IDS
+
