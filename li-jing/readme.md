@@ -36,6 +36,7 @@
 - [2023-02-22 ](#2023-02-22)
 - [2023-02-23](#2023-02-23)
 - [2023-02-24](#2023-02-24)
+- [2023-02-25](#2023-02-25)
 - 
 
 
@@ -199,3 +200,15 @@ interruption location techniques that utilise them.
 - Problem: inefficient against new/distinct attacks, IDS has various problems involving gradient vanishing, generalization, and overfitting issues.
 - Idea: **the enhanced long-short term memory (ELSTM) technique** with **recurrent neural network (RNN)** (ELSTM-RNN) to enhance security in IDS
 
+## 2023-02-25
+[Anomaly Detection In IoT Networks Using Hybrid Method Based On PCA-XGBoost](https://ieeexplore-ieee-org.ezproxy.utm.my/abstract/document/10043986) by Ali Taghavirashidizadeh et al., 2022 8th Iranian Conference on Signal Processing and Intelligent Systems (ICSPIS)
+- Problem: With the increasing use of IoT infrastructure in various fields, threats and attacks on these infrastructures are also growing. 
+- Keyword: anomaly detection; Intrusion Detection; internet of things; principal component analysis; XGBoost.
+- Idea: combining feature dimensionality reduction and machine learning methods
+- Methodology: a method based on a combination of **Principal Component Analysis (PCA)** and **XGBoost algorithms** for anomaly detection in IoT was presented
+- Datasets: UNSW-NB15
+- Classification: binary classification
+- Metrics: accuracy, precision, recall, and f1-score
+- Results: the performance of PCA-XGBoost outperformed other ML methods, involving DT, KNN, SVM, LR
+- Future directions: we can also focus on identifying **the type of attack**. In addition to the XGBoost algorithm, **metaheuristic algorithms** can also be used to reduce more efficient features. **Deep learning algorithms** can also be used for classification.
+- My comments: relatively simple method without enough explanation, but can be a way to start experiment.
