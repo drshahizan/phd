@@ -21,7 +21,7 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 |4|PLoS One|WoS & Scopus|1380$|12|[:arrow_upper_right:](https://journals.plos.org/plosone/)|science, engineering, medicine, and the related social sciences and humanities|
 |5|Journal of King Saud University - Computer and Information Sciences|WoS (IF 8.839) & Scopus(Q1)|$1350|10|[:arrow_upper_right:](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences)|Machine Learning, Natural Language Processing, Internet of Things, Bioinformatics, etc.|
 |6|International Journal of Medical Informatics|WoS (IF 4.73),Scopus(Q1)|In progress 🔍|12|[:arrow_upper_right:](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)| artificial intelligence and, machine learning, hospital information systems, electronic medical record systems|
-|7|Malaysian Journal of Fundamental and Applied Sciences|WoS & Scopus| 630 RM| [:arrow_upper_right:](https://mjfas.utm.my/index.php/mjfas/about)|image processing|
+|7|Malaysian Journal of Fundamental and Applied Sciences|WoS & Scopus| 630 RM|6| [:arrow_upper_right:](https://mjfas.utm.my/index.php/mjfas/about)|image processing|
 
 
 
