@@ -34,3 +34,4 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
  ### Tools for SLR
  - [RStudio](https://posit.co/download/rstudio-desktop/)
    - [How to install biblioshiny using R package for bibliometrics](https://www.youtube.com/watch?v=gjxfqzSuiIo)
+   - [How to do a 𝘽𝙄𝘽𝙇𝙄𝙊𝙈𝙀𝙏𝙍𝙄𝘾𝙎 𝙪𝙨𝙞𝙣𝙜 𝙍 package: SLR-M](https://www.youtube.com/watch?v=edf5xgc2zHg&t=7s)
