@@ -38,5 +38,6 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
    - [Bibliometric Analysis Using Biblioshiny (R package)](https://www.youtube.com/watch?v=xKu6TknKIz0)
   -  [RAxter.io](https://www.raxter.io/)
      * Axter.io appears to be a platform designed to assist researchers in their work. The platform aims to boost researchers' effectiveness, creativity, and agility    by providing personalized support and assistance during the challenging situations that arise during the research journey. The mission of RAxter.io is to become the intellectual partner for every researcher and help them to overcome obstacles and achieve their goals.
+   - [Cheat sheet ChatGPT](https://attachments.convertkitcdnn2.com/682688/b0c434c6-e836-49cf-864c-4c8c67d97625/ChatGPT%20Cheat%20Sheet.pdf)
  
   
