@@ -37,6 +37,11 @@
 - [2023-02-23](#2023-02-23)
 - [2023-02-24](#2023-02-24)
 - [2023-02-25](#2023-02-25)
+- [2023-02-26](#2023-02-26)
+- ...
+- [2023-03-01](#2023-03-01)
+- ...
+- [2023-03-03](#2023-03-03)
 - 
 
 
@@ -212,3 +217,60 @@ interruption location techniques that utilise them.
 - Results: the performance of PCA-XGBoost outperformed other ML methods, involving DT, KNN, SVM, LR
 - Future directions: we can also focus on identifying **the type of attack**. In addition to the XGBoost algorithm, **metaheuristic algorithms** can also be used to reduce more efficient features. **Deep learning algorithms** can also be used for classification.
 - My comments: relatively simple method without enough explanation, but can be a way to start experiment.
+
+## 2023-02-26
+[Hybrid Intrusion Detection System Based on Combination of Random Forest and Autoencoder](https://www.mdpi.com/2073-8994/15/3/568) by Chao Wang et al., 2023, symmetry, MDPI
+- Problem: difficult to deal with unknown attacks, high false positive rate
+- Keyword: intrusion detection; random forest; autoencoder; hybrid model; unknown attack
+- Idea: As different models learn data characteristics from different perspectives, in this work we propose a hybrid IDS which leverages both random forest (RF) and autoencoder (AE).
+- Methodology: The hybrid model operates in two steps. In particular, in the first step, we utilize the probability output of the RF classifier to determine whether a sample belongs to attack. The unknown attacks can be identified with the assistance of the probability output. In the second step, an additional AE is coupled to reduce the false positive rate. To simulate an unknown attack in experiments, we explicitly remove some samples belonging to one attack class from the training set.
+- Datasets: IDS2018, BOT-IOT
+- Classification: binary classification
+- Metrics: accuracy, precision, recall, f1-score, and FAR
+- Results: The experimental results prove that the combina- tion method boosts the detection rate and reduces the FPR in comparison to the single detection methods.
+- Future directions: Only one type of attack was set as the unknown during the experiments; it is important to set **more than one type of attack** as the unknown to test the model. We plan to expand the method into a **multi-class approach** to provide more diagnostic information for security operators in the future.
+- My comments: an approach on handling unknown attack, and reducing false positive rate.
+
+## 2023-03-01
+Survey: [A Deep Learning and Optimization Method for Detecting Network Intrusion in IOT](https://ieeexplore-ieee-org.ezproxy.utm.my/abstract/document/10047140) by Rekha Gangula et al., 2022 Second International Conference on Advanced Technologies in Intelligent Control, Environment, Computing and Communication Engineering ICATIECE
+- Problem: Researchers and engineers must be able to interpret the complicated structure from imprecise information, recognize the dynamic anomaly patterns, and find anomalies when there aren't enough labels to describe them. As a result, using deep learning techniques rather than conventional shallow learning methods is necessary to improve anomalous detection capability.
+- Keyword: intrusion detection, neural networks, optimization, Internet of things, accuracy, false alarm rate.
+- Idea: DL vs traditional shallow ML on IDS in IoT
+- Methodology: This article offers a survey on anomalous intrusion detection using deep learning techniques, with a focus on IoT devices utilized in real-world issues that have limited resources.
+- Metrics: accuracy, precision, recall, f1-score, and FAR
+- Results: The results of the research that were evaluated demonstrated that deep learning is better to traditional learning when it comes to high identification efficiency and low rate of false alarms. 
+- Future directions: how to manage amount of alerts, how to handle useless info for deep learning, constant updated model in IoT for unknown attacks, further investigation on IDS and blockchain.
+- My comments: seems like a follow-up topic on DL on IDS IoT and a quick survey paper.
+
+[ADCL: Towards An Adaptive Network Intrusion Detection System Using Collaborative Learning in IoT Networks](https://ieeexplore-ieee-org.ezproxy.utm.my/abstract/document/10050513) by Zuchao Ma et al., 2023 IEEE internet of things
+- Problem: It is well-known that the NIDS performance depends heavily on the effectiveness of detection model, which can be influenced significantly by the learning mechanism and the available training data. Many existing studies try to mitigate the above challenges, but few of them consider the adaptability and the cost of deploying an NIDS, the integrity of learning process, the capacity of model based on concrete traffic samples at the same time.
+- Keyword: Intrusion Detection, System Adaptability, Collaborative Learning, Multiple Model, Internet of Things
+- Idea: propose a **collaborative learning** based detection framework called ADCL, which can mitigate the limitations on the knowledge of a single model by **leveraging multiple models trained in similar environments and detecting intrusions in a collaborative manner**.
+- Results: Our evaluation results indicate that ADCL can provide better performance compared with a single model on detecting various attacks in IoT networks. Specifically, ADCL improves F-score by up to 80% for adaptability, 42% in mitigating the reliance on learning integrity, 85% for model capacity. Furthermore, the detection results of ADCL guide those single models to update and increase the F-score by 15%.
+- Future directions: 
+- My comments: Interesting idea, a model selection mechanism with mulitple models tranined, using suitable detector for attack detection.
+
+## 2023-03-03
+Review: [Zero-day attack detection: a systematic literature review](https://link-springer-com.ezproxy.utm.my/article/10.1007/s10462-023-10437-z) by Rasheed Ahmad et al., Artificial Intelligence Review (2023)
+- Problem: Many of the recently proposed solutions lack a holistic IDS approach due to explicitly **relying on attack signature repositories, outdated datasets or the lack of considering zero-day (unknown) attacks while developing, training, or testing the machine learning (ML) or deep learning (DL)-based models**. Overlooking these factors makes the proposed IDS **less robust or practical in real-time environments**. On the other hand, detecting **zero-day attacks is a challenging subject**, despite the many solutions proposed over the past many years.
+- Keyword: Zero-day attacks · Unknown attacks · Anomaly detection · Intrusion detection · Closed and open set recognition
+- Idea: **SLR from the point of view on zero-day attacks in IDS.** One of the goals of this systematic literature review (SLR) is to provide a research asset to future researchers on **various methodologies, techniques, ML and DL algorithms that researchers used for the detection of zero-day attacks.**
+- Results: completing the gap in providing a single repository of finding ML and DL-based tools and techniques used by researchers for the detection of zero-day attacks.
+- Future directions: **Not all attacks require the same mitigation strategy.** some other researchers grouped various subclasses of attacks into a few main **attack classes.** ML and DL models must be trained and tested on the diverse dataset to avoid training or testing bias issues and achieve optimum performance results on zero-day attacks. **Quality datasets** play a major role in building a comprehensive IDS. When building a DL-based model, it is essential to **consider factors (e.g., memory, computational power, deployment layer) that can impact the model performance in a live environment.** 
+- My comments: this paper provide a guide for the methods and techniques to build IDS towards zero-day attacks.
+
+[Fog-cloud based intrusion detection system using Recurrent Neural Networks and feature selection for IoT networks](https://www-sciencedirect-com.ezproxy.utm.my/science/article/pii/S138912862300107X) by Naeem Firdous Syed et al., Computer Networks Volume 225, April 2023, 109662
+- Problem: Deep learning techniques perform better in detecting attacks compared to shallow machine learning algorithms and can be used for intrusion detection. However, communication overheads due to large volume of IoT data and computation requirements for deep learning models prevents effective application of deep learning models closer to the constrained devices. **Existing IDS techniques are either based on shallow learning algorithms or not trained on relevant IoT datasets and furthermore not designed for distributed fog-cloud deployment.**
+- Keyword: IoT, Fog-cloud, Deep learning, IDS
+- Idea: proposed a novel fog-cloud based IoT intrusion detection framework which incorporates **a distributed processing** by **splitting the dataset according to attack class** and **a feature selection step on time-series IoT data.** This is followed by a deep learning **Recurrent Neural Network (SimpleRNN and Bi-directional Long Short-Term Memory (LSTM))** for attack detection.
+- Sub-idea: This is achieved by **first splitting the time-series based IoT network data according to the attack class, where a multi-class problem is converted to binary class problem.** This is followed by applying simple feature reduction techniques such as Group Method of Data Handling (GMDH), Mutual Information (MI) and Chi-Square Statistic to reduce the data size for training the DL models. The reduced datasets are then uploaded to a cloud node to train the DL algorithm and an optimised DL model is deployed to the edge or fog nodes for detecting IoT attacks. (good to refer!)
+- Methodology: DL: SimpleRNN, Bi-directional Long Short-Term Memory (LSTM), FS: GMDH-LR-COV, GMDH-LR, MI, Chi-Sqr.
+- <img width="558" alt="image" src="https://user-images.githubusercontent.com/22785858/222658287-0cdc1716-98cd-490f-933c-1b8a43577297.png">
+- Datasets: BOT-IOT
+- Environment: A high performance computing (HPC) cluster with 8 GeForce GTX 1080 Ti GPU running on Intel(R) Xeon(R) Gold 5120 CPU @ 2.20 GHz with 256 GB memory was deployed to run the experiments. TensorFlow library and Keras libraries were used for implementing the SimpleRNN and bi-directional LSTM modules. 
+- Classification: splitting the dataset according to classes, so transform from multi-classification into binary classification.
+- Metrics: Dataset size, accuracy, precision, recall, f1-score, Area Under the Curve (AUC), Time to train (s)
+- Results: Results show that feature selection methods significantly **reduced the dataset size by 90%** under the computation requirements without compromising on the attack detection ability. The models built on reduced dataset achieved **higher recall rate compared to models trained on full feature** set without loosing class differentiation ability. The SimpleRNN and Bi-LSTM models also **did not suffer any underfitting or overfitting with the reduced feature space.** The proposed deep learning based IoT intrusion detection framework is **suitable for fog-cloud based deployment and can scale well even with large volumes of IoT data.**
+- Future directions: /
+- My comments: Fog-based architecture with model trainined, validated and tested in cloud and model deployed at fog level closer to IoT devices to reduce latency of attack detection, DL for high performance, Four FS for dimensionality reduction, BoT-IoT for comprehensive IoT scenarios, comparison with that of full features. **Dataset spliting step is very interesting!**
+
