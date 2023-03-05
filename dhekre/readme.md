@@ -10,7 +10,7 @@ In addition to submitting my first article, I have also successfully defended my
 Overall, I am passionate about utilizing machine learning techniques to advance healthcare and am eager to contribute to the field through my research. I am dedicated to continuing my studies and making a meaningful impact through my work.
 #
 ### Projects
- 
+|No| Title | Link | Description | 
 
 ### list of Journals
 |No| Source Title | Index | APC | Issues per year | Link |Topics covered|
