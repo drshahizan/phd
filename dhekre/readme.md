@@ -9,7 +9,7 @@ In addition to submitting my first article, I have also successfully defended my
 
 Overall, I am passionate about utilizing machine learning techniques to advance healthcare and am eager to contribute to the field through my research. I am dedicated to continuing my studies and making a meaningful impact through my work.
 #
-### [Critical thinking on Articles](#Articles) :thinking:
+### Projects
  
 
 ### list of Journals
@@ -23,14 +23,9 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
 |6|International Journal of Medical Informatics|WoS (IF 4.73),Scopus(Q1)|In progress 🔍|12|[:arrow_upper_right:](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)| artificial intelligence and, machine learning, hospital information systems, electronic medical record systems|
 |7|Malaysian Journal of Fundamental and Applied Sciences|WoS & Scopus| 630 RM|6| [:arrow_upper_right:](https://mjfas.utm.my/index.php/mjfas/about)|image processing,|
 
-
-
 #
 
-### Articles
 
- ####  1. [A Novel Blunge Calibration Intelligent Feature Classification Model for the Prediction of Hypothyroid Disease](https://github.com/Zkri-Saber/PhD-Doucuments/blob/main/A%20Novel%20Blunge%20Calibration%20Intelligent%20Feature%20Classification%20Model%20for%20the%20Prediction%20of%20Hypothyroid%20Disease.md)
- 
  ### Tools for SLR
  - [RStudio](https://posit.co/download/rstudio-desktop/)
    - [How to install biblioshiny using R package for bibliometrics](https://www.youtube.com/watch?v=gjxfqzSuiIo)
