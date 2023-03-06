@@ -42,7 +42,8 @@
 - [2023-03-01](#2023-03-01)
 - ...
 - [2023-03-03](#2023-03-03)
-- 
+- ...
+- [2023-03-06](#2023-03-06)
 
 
 ## 2023-02-16  
@@ -274,3 +275,44 @@ Review: [Zero-day attack detection: a systematic literature review](https://link
 - Future directions: /
 - My comments: Fog-based architecture with model trainined, validated and tested in cloud and model deployed at fog level closer to IoT devices to reduce latency of attack detection, DL for high performance, Four FS for dimensionality reduction, BoT-IoT for comprehensive IoT scenarios, comparison with that of full features. **Dataset spliting step is very interesting!**
 
+## 2023-03-06
+[Improve the Security of Industrial Control System: A Fine-Grained Classification Method for DoS Attacks on Modbus/TCP](https://link-springer-com.ezproxy.utm.my/article/10.1007/s11036-023-02108-8) by Hao Zhang et al., Mobile Networks and Applications (2023)
+- Application: Industrial Control Systems(ICS), vulnerability on Modbus protocol (DDoS attack)
+- Problem: Traditional detection methods **cannot perform well on fine-grained detection tasks** which could contribute to locating targets of attacks and preventing the destruction.
+- Keyword: ICS · Modbus · DoS · DDoS · Deep learning · Fine-grained classification
+- Idea: proposed a Neural Network architecture named MODLSTM, which consists of three parts: input preprocessing, feature recoding, and traffic classification.
+- Dataset: CICDDOS2019
+- Methodology: PCA for visualization, LSTM
+- Validation: Confusion matrix of (a)Binary (b)Multiclassy task, Recall Precision Accuracy Class number
+- Results: In the experiments, the effectiveness and robustness have been evaluated about the model, which gives 90.04% accuracy in the DoS attacks fine-grained task and 98.43% accuracy in the public DDoS dataset(increased by 0.71% and 0.07% respectively). The results show that the proposed method has more satisfactory abilities to detect **DoS attacks related to Modbus**, compared with other works. 
+- Future directions:  However, the experiments **just involved some serial attacks**, in our real world, there are many **malicious attacks happening in parallel**. The first is to explore a dataset for parallel network attacks in Modbus devices, and discuss appropriate classifications method. On this basis, we will construct a more robust ICS firewall capable of facing multiple attack modes.
+- My comments: A paper focusing on specific attacks that have influence on specific veritical like industry IoT.
+
+[An ensemble deep learning based IDS for IoT using Lambda architecture](https://link-springer-com.ezproxy.utm.my/article/10.1186/s42400-022-00133-w) by Rubayyi Alghamdi et al., Cybersecurity volume 6, Article number: 5 (2023)
+- Problem: Building an Intrusion Detection System (IDS) for IoT networks is challenging as they enable **a massive amount of data to be aggregated**, which is difficult to handle and analyze in real time mainly because of **the heterogeneous nature of IoT devices.**
+- Keyword: IoT, IDS, **Lambda architecture**, Cyber-attacks, Deep learning, **Ensemble learning**
+- Idea: Quick binary classifier + ensemble multi-classifiers. **Binary classification uses Long Short Term Memory (LSTM)** to differentiate between malicious and benign traffic, while the **multi-class classifier uses an ensemble of LSTM, Convolutional Neural Network and Artificial Neural Network classifiers** to detect the type of attacks.
+- Dataset: IoT-23
+- Classifier: binary using LSTM, while multi-classifier using LSTM, CNN, ANN / majority voting or weighted ensemble
+- Methodology: Binary + multi-classifier, with Lamda architecture (batch mode for model training + stream mode for detecting)
+- <img width="638" alt="image" src="https://user-images.githubusercontent.com/22785858/223052962-1e34b69a-551d-4590-9c6b-cbd30de5d21e.png">
+- <img width="806" alt="image" src="https://user-images.githubusercontent.com/22785858/223053218-386fe4ec-5561-41d6-a417-1d73be64d427.png">
+- <img width="805" alt="image" src="https://user-images.githubusercontent.com/22785858/223053891-6b1aae1d-a78b-4791-9d69-5da05ad3751e.png"> 
+- Validation: Confusion matrix of (a)Binary (b)Multiclassy task, Recall Precision Accuracy Class number
+- Environment: We implemented the proposed deep ensemble-based IDS model in Python 3.7 with Tensorflow 2.6. to validate the efficacy of the proposed architecture. The experiment was done on a core-i5 machine with 64-bit Operating System (OS) and 16GB RAM. The software stack con- tained Java (JDK) 11, Hadoop 2.7, Spark v3.0, Pyspark 3.0, and Kafka 2.6.  
+- Results: The proposed approach gives high accuracy of over 99.93% and saves useful processing time due to the **multi-pronged classification strategy and using the lambda architecture.** We also demonstrate that the **ensemble approach results in higher detection accuracy and precision as compared to using the simple approach.** We also demonstrate that using the Lambda architecture enhances system performance in terms of throughput.  
+- Future directions: In the future, we intend to employ **more deep-learning approaches in the ensemble model** to augment detection accuracy and system performance further. We also intend to test the proposed framework **in a real-world production IoT environment** to validate its performance further. Another important goal is to use **Automated Machine Learning techniques for tuning the hyperparameters.**  
+- My comments: quick binary and ensemble multi-classification, Lamda architecuture used considering IoT characteristics.
+
+[BLoCNet: a hybrid, dataset-independent intrusion detection system using deep learning](https://link-springer-com.ezproxy.utm.my/article/10.1007/s10207-023-00663-5) by Brandon Bowen et al., International Journal of Information Security (2023)
+- Problem: Most models achieve high accuracy, they may **not always detect underrepresented attacks**. Also, their **accuracy depends on the dataset, its features, and the proportion of samples**.
+- Keyword: Cybersecurity · Intrusion detection · Deep learning · CNN · BLSTM
+- Idea: Quick binary classifier CNN + hybrid classifiers for identifying specific attacks. This paper proposes BLoCNet, **a hybrid DL model** that combines **convolutional neural network (CNN)** and **bidirectional long short-term memory (BLSTM) layers**. CNN allows the IDS to recognize patterns in the features of the network data **in a fast computation time**. The results are sent to two BLSTM layers, which capitalize on the forward and backward propagation of data to **identify malicious traffic.**
+- Dataset: CIC-IDS2017, IoT-23, Bot-IoT, and UNSW-NB15 (why paper named dataset-independent...)
+- Classifier: CNN and BLSTM
+- Methodology: SMOTE, undersampling for class imbalance.
+- <img width="821" alt="image" src="https://user-images.githubusercontent.com/22785858/223058968-fbdd8bd2-5ecf-434f-ab8f-0ed5aacadba6.png">
+- Validation: Prec Recall F1 Minority, minority attack classes were specified in test result.
+- Results: For CIC-IDS2017 and IoT-23 datasets, BLoCNet had an accuracy of 98% and 99%, which is similar performance as related studies, albeit not an exact comparison due to different sampling approaches. For the original UNSW-NB15 dataset, BLoCNet had an accuracy of 76.34% vs. 75.56% of related work. These results demonstrate that BLoCNet performed well **across various datasets and confirms that its hybrid model provides good detection results.** albeit not an exact comparison **due to different sampling approaches.**   
+- Future directions: we will further explore the performance of BLoCNet and the DNN model. This can help **reduce the training time of the BLoCNet model** and understand how to improve the **detection rate for underrepresented attacks**. The latter can be achieved by using **different sampling techniques**. BLoCNet can also be trained on **newer IoT datasets**, as it is **dataset agnostic**.  
+- My comments: Hybrid model across multiple datasets, or named dataset agnositic model, especially for the minority attacks (by using sampling techniques). Implications for practitioners section contains the brief experience on data pre-processing and model validation.
