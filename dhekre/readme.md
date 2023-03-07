@@ -10,8 +10,9 @@ In addition to submitting my first article, I have also successfully defended my
 Overall, I am passionate about utilizing machine learning techniques to advance healthcare and am eager to contribute to the field through my research. I am dedicated to continuing my studies and making a meaningful impact through my work.
 #
 ### Read a Papers
-|No| Author |Method| Critical Review|
+|No| Author |Objective| Critical Review|
 |--|---|---|---|
+|1|(Pal et al., 2022)| It highlights the importance of early detection for effective treatment of thyroid disorders, and how machine learning can aid in disease prediction and detection. The main objective of the study mentioned is to predict thyroid disease using machine learning classifiers. The text is organized into sections covering related work, methods, results, and conclusion.|The article discusses the comparison of three machine learning algorithms, namely KNN, Decision tree, and MLP for the prediction of thyroid disease. The results showed that MLP performed better in predicting thyroid disease compared to the other two algorithms, with an accuracy of 95.72% and an AUC of 94.23%. The study compared the proposed work with other existing studies and found that the proposed work performs better in the prediction of thyroid disease. The limitations of the ML classifiers were also discussed, and it was suggested that the used machine learning model could also be used for the classification of other chronic diseases with higher accuracy and diagnosis rate. The article concludes that using deep learning methods could further improve the accuracy of prediction of thyroid disease.|
 #
 ### Projects
 |No| Title | Link | Description |
@@ -40,5 +41,10 @@ Overall, I am passionate about utilizing machine learning techniques to advance 
   -  [RAxter.io](https://www.raxter.io/)
      * Axter.io appears to be a platform designed to assist researchers in their work. The platform aims to boost researchers' effectiveness, creativity, and agility    by providing personalized support and assistance during the challenging situations that arise during the research journey. The mission of RAxter.io is to become the intellectual partner for every researcher and help them to overcome obstacles and achieve their goals.
    - [Cheat sheet ChatGPT](https://attachments.convertkitcdnn2.com/682688/b0c434c6-e836-49cf-864c-4c8c67d97625/ChatGPT%20Cheat%20Sheet.pdf)
+  #
+  **References**
+   * Pal, M., Parija, S., & Panda, G. (2022). Enhanced Prediction of Thyroid Disease Using Machine Learning Method. Proceedings of IEEE VLSI DCS 2022: 3rd IEEE Conference on VLSI Device, Circuit and System, 2022(February), 199–204. [https://doi.org/10.1109/VLSIDCS53788.2022.9811472](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811472)
+
+
  
   
