@@ -29,21 +29,20 @@
 📚 #[Literatures Daily](https://github.com/goldboy225/PhD-Journey/blob/main/Literatures%20Daily.md)
 
 # Contents:
-- [2023-02-16 ](#2023-02-16)
-- [2023-02-17 ](#2023-02-17)
-- [2023-02-18 ](#2023-02-18)
-- ...
-- [2023-02-22 ](#2023-02-22)
+- [2023-02-16](#2023-02-16)
+- [2023-02-17](#2023-02-17)
+- [2023-02-18](#2023-02-18)
+- [2023-02-22](#2023-02-22)
 - [2023-02-23](#2023-02-23)
 - [2023-02-24](#2023-02-24)
 - [2023-02-25](#2023-02-25)
 - [2023-02-26](#2023-02-26)
-- ...
 - [2023-03-01](#2023-03-01)
-- ...
 - [2023-03-03](#2023-03-03)
-- ...
 - [2023-03-06](#2023-03-06)
+- [2023-03-08](#2023-03-08)
+- [2023-03-09](#2023-03-09)
+- 
 
 
 ## 2023-02-16  
@@ -316,3 +315,43 @@ Review: [Zero-day attack detection: a systematic literature review](https://link
 - Results: For CIC-IDS2017 and IoT-23 datasets, BLoCNet had an accuracy of 98% and 99%, which is similar performance as related studies, albeit not an exact comparison due to different sampling approaches. For the original UNSW-NB15 dataset, BLoCNet had an accuracy of 76.34% vs. 75.56% of related work. These results demonstrate that BLoCNet performed well **across various datasets and confirms that its hybrid model provides good detection results.** albeit not an exact comparison **due to different sampling approaches.**   
 - Future directions: we will further explore the performance of BLoCNet and the DNN model. This can help **reduce the training time of the BLoCNet model** and understand how to improve the **detection rate for underrepresented attacks**. The latter can be achieved by using **different sampling techniques**. BLoCNet can also be trained on **newer IoT datasets**, as it is **dataset agnostic**.  
 - My comments: Hybrid model across multiple datasets, or named dataset agnositic model, especially for the minority attacks (by using sampling techniques). Implications for practitioners section contains the brief experience on data pre-processing and model validation.
+
+## 2023-03-08
+Review: [Machine Learning Techniques to Detect a DDoS Attack in SDN: A Systematic Review](https://www.mdpi.com/2076-3417/13/5/3183) by by Tariq Emad Ali Appl. Sci. 2023, 13(5), 3183; https://doi.org/10.3390/app13053183
+- Idea: The objective of this systematic review is to identify, evaluate, and discuss new efforts on ML/DL-based DDoS attack detection strategies in SDN networks.
+- Methodology: To reach our objective, we conducted a systematic review in which we looked for publications that used ML/DL approaches to identify DDoS attacks in SDN networks between 2018 and the beginning of November 2022. To search the contemporary literature, we have extensively utilized a number of digital libraries (including IEEE, ACM, Springer, and other digital libraries) and one academic search engine (Google Scholar).
+- Results: We have analyzed the relevant studies and categorized the results of the SLR into five areas: (i) The different types of DDoS attack detection in ML/DL approaches; (ii) the methodologies, strengths, and weaknesses of existing ML/DL approaches for DDoS attacks detection; (iii) benchmarked datasets and classes of attacks in datasets used in the existing literature; (iv) the preprocessing strategies, hyperparameter values, experimental setups, and performance metrics used in the existing literature; and (v) current research gaps and promising future directions.
+- Idea: The objective of this systematic review is to identify, evaluate, and discuss new efforts on ML/DL-based DDoS attack detection strategies in SDN networks.
+- My comments: Review of IDS in SDN networks.
+
+## 2023-03-09
+[A Fast and Effective Method for Intrusion Detection using Multi-Layered Deep Learning Networks](https://www.proquest.com/openview/44421bad128919ebb7585dedc29552a4/1?pq-origsite=gscholar&cbl=5444811)
+- Problem: Detecting intrusions is a challenging aspect especially in networked environments, as the system designed for such a scenario should be able to handle **the huge volume and velocity associated with the domain.**
+- Idea: This research presents three models, **APID (Adaptive Parallelized Intrusion Detection), HBM (Heterogeneous Bagging Model) and MLDN (Multi Layered Deep learning Network)** that can be used for fast and efficient detection of intrusions in networked environments.
+- Methodology: The deep learning model has been constructed using the Keras library. The training data is preprocessed and segregated to fit the processing architecture of neural networks. The network is constructed with multiple layers and the other required parameters for the network are set in accordance with the input data. The trained model is validated using the validation data that has been specifically segregated for this purpose.
+- Results: 
+- My comments:
+
+[A Novel Deep Learning-Based Intrusion Detection System for IoT Networks](https://www.mdpi.com/2073-431X/12/2/34) by Albara Awajan Computers 2023,12,34. https://doi.org/ 10.3390/computers12020034
+- Problem: Detecting intrusion on IoT devices in real-time is essential to make IoT-enabled services reliable, secure, and profitable.
+- Idea: Self generated data with feature engineering using DNN on simulated IoT devcies.
+- Methodology: This intelligent system uses a four-layer deep Fully Connected (FC) network architecture to detect malicious traffic that may initiate attacks on connected IoT devices. **The proposed IDS is dynamic and regularly updated based on newly discovered features through the classifier Updated module.**
+- <img width="705" alt="image" src="https://user-images.githubusercontent.com/22785858/224067041-b527348d-0a08-4f89-bb56-2d3ca74b4ec3.png">
+- <img width="566" alt="image" src="https://user-images.githubusercontent.com/22785858/224068435-f4b368a1-5f78-4b00-b1fe-8b4aa16cab38.png">
+- Results: The proposed system demonstrates reliable performance for simulated and real intrusions during the experimental performance analysis. It detects the Blackhole, Distributed Denial of Service, Opportunistic Service, Sinkhole, and Workhole attacks with an average accuracy of 93.74%. The proposed intrusion detection system’s precision, recall, and F1-score are 93.71%, 93.82%, and 93.47%, respectively, on average. This innovative deep learning-based IDS maintains a 93.21% average detection rate which is satisfactory for improving the security of IoT networks.
+- Future directions: The scope of developing **a platform-independent framework** from the deep learning-based intrusion detection system for IoT networks will be explored. It is expected that **a lightweight version of the proposed framework** will be more efficient and effective in intrusion detection.
+- My comments: end-to-end IDS with classifer update.
+
+Review: [A review of hacking techniques in IoT systems and future trends of hacking on IoT environment](https://wjarr.com/sites/default/files/WJARR-2023-0310.pdf) by Nur A'fyfah Zaimy World Journal of Advanced Research and Reviews, 2023, 17(02), 723–731
+- Problem: This paper reviews Internet of Things (IoT) security and the rise in security issues due to **hardware and software security flaws** being exploited.
+- Idea: this paper aims to provide **insights into the future of IoT security** and inform the development of **effective prevention measures by analyzing hacking techniques and tools.**
+- My comments: general review on hacking methods and corresponding mitigation methods.
+
+😄[Explaining AI-informed Network Intrusion Detection with Counterfactuals](http://www.meng-jiang.com/pubs/C75.pdf) by Gang Liu and Meng Jiang 
+- Problem: the developers and users of the NID systems **could not understand the systems’ correct or incorrect decisions** due to the **complexity and black-box nature of the AI methods.**
+- Idea: Visual way on AI explanability.
+- Methodology: This is a two-page poster paper that presents a new demo system that **offers a number of counterfactual explanations visually for any data example**. The visualization results were automatically generated: users just need to provide the index of a data example and do not edit anything on the graph. The visual feature space was built by the **t-SNE dimension reduction technique.**
+- <img width="542" alt="image" src="https://user-images.githubusercontent.com/22785858/224076740-c5e39f25-541b-43e2-a47d-a144519c4f5f.png">
+- Future direction: In the future, we will extend the detection task from binary classification to multi-class classification.
+- My comments: an interesting paper on AI explanability in visualized way.
+
