@@ -1,13 +1,7 @@
 
-# My PhD Journey :writing_hand:
+# PhD Project:
 
-As a PhD student, I am fully dedicated to pursuing research in the field of machine learning for healthcare applications. My primary focus is on designing a framework that can accurately predict thyroid disease using machine learning algorithms. This is an essential area of study given the prevalence of thyroid disorders and the significant impact they can have on an individual's health.
-
-I recently took a major step forward in my research by sending my [first article](https://github.com/Zkri-Saber/MyPhdProject/tree/main/Baghdad%20Science%20Journal) to the [Baghdad Science Journal](https://bsj.uobaghdad.edu.iq/index.php/BSJ/about). This was an exciting milestone for me, as it allowed me to share my findings with the broader research community and receive feedback from my peers. I am looking forward to continuing to publish my work in various academic journals in the future.
-
-In addition to submitting my first article, I have also successfully defended my research proposal, which has paved the way for me to move forward with my studies. Currently, I am in the process of working on my [second article](https://github.com/Zkri-Saber/thyroid-disease-in-high-dimensional-dataseat), which will delve deeper into the specifics of my proposed framework for thyroid disease prediction.
-
-Overall, I am passionate about utilizing machine learning techniques to advance healthcare and am eager to contribute to the field through my research. I am dedicated to continuing my studies and making a meaningful impact through my work.
+A This repository contains the source code and data for my PhD project, which is being conducted within the Engineering Field, specifically in the Faculty of Computing, and as part of the Doctor of Philosophy (Informatics Engineering) program. My research topic focuses on the prediction of thyroid diseases using machine learning techniques. Thyroid diseases are common endocrine disorders that affect millions of people worldwide, and early and accurate diagnosis is crucial for effective treatment and management. By leveraging the power of machine learning algorithms and the vast amount of data available, this project aims to develop a predictive model that can accurately identify the presence of thyroid diseases, thereby aiding healthcare professionals in making better-informed decisions and improving patient outcomes.
 
 ## Directory Structure
 
