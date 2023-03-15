@@ -8,6 +8,14 @@ I recently took a major step forward in my research by sending my [first article
 In addition to submitting my first article, I have also successfully defended my research proposal, which has paved the way for me to move forward with my studies. Currently, I am in the process of working on my [second article](https://github.com/Zkri-Saber/thyroid-disease-in-high-dimensional-dataseat), which will delve deeper into the specifics of my proposed framework for thyroid disease prediction.
 
 Overall, I am passionate about utilizing machine learning techniques to advance healthcare and am eager to contribute to the field through my research. I am dedicated to continuing my studies and making a meaningful impact through my work.
+
+## Directory Structure
+
+- `code/`: Contains all source code files.
+- `data/`: Contains datasets used in the project.
+- `docs/`: Contains documentation and related materials.
+
+
 #
 ### Read a Papers
 |No/Time| Author |Objective| Critical Review|
