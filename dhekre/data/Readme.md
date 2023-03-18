@@ -1,1 +1,2 @@
-
+🧬`thyroid.csv` file contains data related to thyroid disease, with a total of 9,172 instances and 31 features. However, it is important to note that the data is [unbalanced](https://www.linkedin.com/pulse/balancing-imbalanced-data-important-ml-jahnavi-thekkada), meaning that there may be an unequal distribution of the target variable (e.g., diseased vs. non-diseased patients). Additionally, the dataset contains [missing values](https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/#:~:text=Missing%20data%20is%20defined%20as,Cabin'%20have%20some%20missing%20values.), which can affect the accuracy and reliability of any analysis or modeling performed with the data. 
+👌`HSHT`  file contains data related to thyroid disease ...!🔃
