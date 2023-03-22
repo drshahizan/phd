@@ -42,7 +42,9 @@
 - [2023-03-06](#2023-03-06)
 - [2023-03-08](#2023-03-08)
 - [2023-03-09](#2023-03-09)
-- 
+- [2023-03-10](#2023-03-10)
+- [2023-03-11](#2023-03-11), Energy consumption analysis in ML-based IoT
+- [2023-03-16](#2023-03-16), 
 
 
 ## 2023-02-16  
@@ -354,4 +356,41 @@ Review: [A review of hacking techniques in IoT systems and future trends of hack
 - <img width="542" alt="image" src="https://user-images.githubusercontent.com/22785858/224076740-c5e39f25-541b-43e2-a47d-a144519c4f5f.png">
 - Future direction: In the future, we will extend the detection task from binary classification to multi-class classification.
 - My comments: an interesting paper on AI explanability in visualized way.
+
+## 2023-03-10
+😄 Review: [Advances in IoT Security: Vulnerabilities, Enabled Criminal Services, Attacks and Countermeasures](https://ieeexplore-ieee-org.ezproxy.utm.my/stamp/stamp.jsp?tp=&arnumber=10059147)
+- Problem: IoT devices remain at higher risk of attack due to their intrinsic properties which include but are not limited to **extreme heterogeneity, mostly plug-and-play nature, computational limitations, improper patch management, unnecessary open ports, default or no security credentials, and extensive use of reusable open-source software.**
+- Motivation: To address these security concerns we need to thoroughly understand IoT devices’ **vulnerabilities, associated attacks, and how criminal services can abuse these devices.**
+- Idea: we present **recent advances in IoT security vulnerabilities, criminal services by empirically identifying major vulnerable IoT devices and cyber attacks exploiting them by cyber criminals.** Additionally, we present **mapping of vulnerabilities, criminal services, attacks, and potential solutions against such vulnerabilities and attacks.** We have also presented different approaches in a tabular form for side by side comparison.
+- Methodology
+- <img width="927" alt="image" src="https://user-images.githubusercontent.com/22785858/224192960-9d6c12c4-2079-40d6-a8c0-a9a062fff7ec.png">
+- Idea: we present **recent advances in IoT security vulnerabilities, criminal services by empirically identifying major vulnerable IoT devices and cyber attacks exploiting them by cyber criminals.** Additionally, we present **mapping of vulnerabilities, criminal services, attacks, and potential solutions against such vulnerabilities and attacks.** We have also presented different approaches in a tabular form for side by side comparison.
+- My comments: valueable reference on various perspectives of the IoT security. some of the interesting tools as following:
+**CVE (Common Vulnerability and Exposure)**: As the name suggests, it’s a list of publicly disclosed databases related to vulnerabilities and exposures. CVE database is maintained by MITRE1 and fully synchronized CVE database is also maintained by NIST as NVD database [28]
+**Shodan**:2 It is a search engine for the Internet of everything that is used to explore exposed internet-connected products. This is a tool popular these days for vulnerability assessment and security research.
+
+
+## 2023-03-11
+😄 [Energy consumption of on-device machine learning models for IoT intrusion detection](https://scholar.google.com/scholar_url?url=https://avesis.erciyes.edu.tr/yayin/ce0d31c4-e0cb-4990-b839-9f1b926cf19a/energy-consumption-of-on-device-machine-learning-models-for-iot-intrusion-detection/document.pdf&hl=en&sa=X&d=13506121193665797828&ei=G8kLZJ7OKYThmQH4_o6IDA&scisig=AAGBfm3h3297Fsm_G2Vi4_QKplNGK3HR8g&oi=scholaralrt&html=&pos=0&folt=cit)
+- Problem: No study has been conducted to analyze **the energy consumption of ML-based IDS.**
+- Idea: we perform a comparative analysis of on-device ML algorithms in terms of energy consumption for IoT intrusion detection applications.
+- Dataset: DS2OS
+- Methodology: For a thorough analysis, we study the training and inference phases separately. For training, we compare the cloud computing-based ML, edge computing-based ML, and IoT device-based ML approaches. For the inference, we evaluate the TinyML approach to run the ML algorithms on tiny IoT devices such as Micro Controller Units (MCUs).
+- <img width="658" alt="image" src="https://user-images.githubusercontent.com/22785858/224524034-5ba16ff0-4801-4098-b200-bb46fd7cb36e.png">
+- Environment: As a cloud service, we leveraged the **Azure cloud computing instance** that had Intel 16 cores CPU with 32 GB RAM. Additionally, we defined the edge device as a device with limited memory and computation power whereas IoT device as a device with very low memory and computation capacity. Accordingly, we used **Dell computer that had Intel(R) Core(TM) i7-9750H CPU processor with 16 GB RAM** as an edge, and **Raspberry Pi 4 Model B with 8 GB RAM** as an IoT device. Finally, we used **ESP32 Azure IoT Kit** as an end device to evaluate inference time thus energy consumption on this device.
+- Results: Comparative performance evaluations show that deploying the **Decision Tree (DT) algorithm on-device gives better results** in terms of training time, inference time, and power consumption.
+- My comments: A good paper on energy consumption empirical analysis among various layers of IoT infrastructure.
+
+## 2023-03-16
+[A Multi-level Random Forest Model-Based Intrusion Detection Using Fuzzy Inference System for Internet of Things Networks](https://link-springer-com.ezproxy.utm.my/article/10.1007/s44196-023-00205-w)
+
+[Scalable anomaly-based intrusion detection for secure Internet of Things using generative adversarial networks in fog environment](https://www-sciencedirect-com.ezproxy.utm.my/science/article/pii/S1084804523000413)
+
+[Routing Attacks Detection in 6LoWPAN-Based Internet of Things](https://www.mdpi.com/2079-9292/12/6/1320)
+
+[HOTD: A Holistic Cross-Layer Time-Delay Attack Detection Framework for Unmanned Aerial Vehicle Networks](https://www-sciencedirect-com.ezproxy.utm.my/science/article/pii/S0743731523000370)
+
+[An Optimal Reinforced Deep Belief Network for Detection of Malicious Network Traffic](https://www.tandfonline.com/doi/abs/10.1080/03772063.2023.2175059)
+
+[Review on the Feasibility of Adversarial Evasion Attacks and Defenses for Network Intrusion Detection Systems](https://arxiv.org/pdf/2303.07003.pdf)
 
