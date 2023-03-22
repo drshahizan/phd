@@ -16,14 +16,23 @@
 - 👯 [Cyber Security](https://github.com/goldboy225/cyber-security): This is the coding repo related to cyber security involving network intrusion detection using well-known datasets like KDD cup ‘99, NSL-KDD, UNSW_NB15.
 - 📫 [Awesome ML for Cybersecurity](https://github.com/goldboy225/awesome-ml-for-cybersecurity): A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
-📚 The plan to be accomplished:
-1. [Proposal writing and defense have been completed](https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ)
-2. [SLR articles writing is on the way](https://github.com/users/drshahizan/projects/1/views/2)
-3. [Experimental papers is under the plan and to be written](https://github.com/users/drshahizan/projects/1/views/1)
-4. Balabala...
+- Overall Status:  
 
 😄 The work finished:
-1. **[Draft SLR Paper is ready on 2023-02-20](https://drive.google.com/drive/u/1/folders/1pqL8sYNhdrhyIuMZ6XPYJnOUPvPxpZX3)**
+1. [Proposal writing and defense have been completed](https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ)
+2. [SLR articles writing is on the way](https://github.com/users/drshahizan/projects/1/views/2)
+3. **[Draft SLR Paper is ready on 2023-02-20](https://drive.google.com/drive/u/1/folders/1pqL8sYNhdrhyIuMZ6XPYJnOUPvPxpZX3)**
+
+📚 The work ongoing:
+1. [Experimental papers is under the plan and to be written](https://github.com/users/drshahizan/projects/1/views/1)
+2. SLR paper is considered as good candidate from the journal, revision within 30 days is on the way. |2023-03-22|
+
+📚 The plan to be accomplished:
+1. The 2nd empirical paper, Ensemble model for feature selection
+2. The 3rd empirical paper, Hybrid metahuristic algorithm for feature selection
+3. The 4th empirical paper, Optimization for hyperparameters
+4. The 5th empirical paper, Effective and Real time application
+5. Balabala...
 
 
 📚 #[Literatures Daily](https://github.com/goldboy225/PhD-Journey/blob/main/Literatures%20Daily.md)
