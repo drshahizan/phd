@@ -1,5 +1,9 @@
 # Effect of Missing Values on Feature Selection and Classification Prediction for Thyroid Dataset
 This project explores the effect of missing values on feature selection and classification prediction for the Thyroid Disease dataset. The project uses three techniques for missing value imputation: mean imputation, k-nearest neighbor (KNN) imputation, and cold-deck imputation. Then, feature selection is performed using random forest (RF), and classification prediction is done using support vector machine (SVM), logistic regression (LR), naive Bayes, light gradient boosting machine (LGBM), and recurrent neural network (RNN) deep learning. The dataset is obtained from the [UCI](https://archive.ics.uci.edu/ml/index.php) Machine Learning Repository and consists of 9172 instances and 31 features.
+#
+![Untitled Diagram](https://user-images.githubusercontent.com/7825349/227157095-578de6be-42fa-4015-8947-882207de1a1e.png)
+
+
 
 ## Files
 The following files are included in the project:
