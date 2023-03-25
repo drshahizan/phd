@@ -8,7 +8,7 @@ A This repository contains the source code and data for my PhD project, which is
 - `code/`: Contains all source code files.
 - `data/`: Contains datasets used in the project.
 - `docs/`: Contains documentation and related materials.
-- 'project': Contains the whole projects which is related to PhD
+- `project`: Contains the whole projects which is related to PhD
 
 
 #
