@@ -32,6 +32,7 @@ A This repository contains the source code and data for my PhD project, which is
 |5|Journal of King Saud University - Computer and Information Sciences|WoS (IF 8.839) & Scopus(Q1)|$1350|10|[:arrow_upper_right:](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences)|Machine Learning, Natural Language Processing, Internet of Things, Bioinformatics, etc.|
 |6|International Journal of Medical Informatics|WoS (IF 4.73),Scopus(Q1)|2900$|12|[:arrow_upper_right:](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)| artificial intelligence and, machine learning, hospital information systems, electronic medical record systems|
 |7|Malaysian Journal of Fundamental and Applied Sciences|WoS & Scopus| 630 RM|6| [:arrow_upper_right:](https://mjfas.utm.my/index.php/mjfas/about)|image processing,|
+|8|International Journal of Advanced Computer Science and Applications|WoS,Scopus|550$|Monthly|[:arrow_upper_right:](https://thesai.org/Publications/CallForPaper?code=IJACSA#Fees)| Computer Science|
 
 #
 
