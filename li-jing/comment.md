@@ -1,5 +1,9 @@
 
-## Title: IoT attack classification framework... Can replace framework with algorithm.
+## Title: 
+- original text: A novel attack classification framework based on feature manipulation of IoT data for IoT security
+- modified text:
+
+- comment: IoT attack classification framework... Can replace framework with algorithm.
 
 ## Does this research will include attack detection?
 
