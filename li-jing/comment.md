@@ -17,7 +17,8 @@ To address these challenges, this research proposes a predictive framework that 
 
 ## Research Background: 
 
-- comment: Elaborate in details on IoT attack detection and classification. Focus on the main concern of research, highlight the recent related research and what to improves.
+- comment: Elaborate in details on IoT attack detection and classification. Focus on the main concern of research, highlight the recent related research and what to improves. 
+- feedback: modified as following, focusing on the methodology for the three objectives according to the three main challenges.
 
 ## Objective: 
 - original text: 
@@ -26,6 +27,9 @@ To address these challenges, this research proposes a predictive framework that 
 (c)	To enhance an integrated synthetic minority oversampling technique with the boost technique and to use classic machine learning and deep neural network classifiers (SMOTE Boost + DT, SVM, RF/DNN) in the post-processing stage to handle class imbalance, alleviate overfitting, and improve model performances with appropriate evaluation measures 
 
 - modified text: 
+(a) To develop a data preprocessing and normalization technique that can handle the diversity and heterogeneity of IoT devices and protocols, in order to improve the accuracy of machine learning models for IoT attack detection/classification.
+(b) To develop a lightweight and computationally efficient machine learning classification model for resource-constrained IoT devices by utilizing ensemble feature selection methods, including Chi-square, Correlation Feature Selection (CFS), Gain Ratio (GR), and Minimum-Redundancy-Maximum-Relevance (MRMR), with majority voting mechanisms to determine the most representative features.
+(c) To develop SMOTE boost with traditional machine learning, and deep learning classifiers, including Deep Neural Network (DNN), Decision Tree (DT), Support Vector Machine (SVM), and Random Forest (RF) to reduce classification bias.
 
 - comment: Objectives need to tally with the main research issue of IoT attack detection/classification algorithm
 
@@ -46,8 +50,18 @@ Phase 5: After the validation of the techniques and algorithms of the 3-stage cl
 The use of appropriate hardware and software is very important in conducting research. The required hardware for this research is intel i5 2.3G with 8G RAM, while the required software is Weka 3.8.3 and Jupyter notebook with pandas, scikit-learn, and tensor flow libraries. Weka 3.8.3 were used for initial findings and Python3.11 in Jupyter notebook are used for the development of algorithms. Besides that, SPSS was used for statistical tests to verify the obtained results.
 
 - modified text:
+(a) Preprocessing and cleaning the IoT datasets: To address the challenge of unclean IoT datasets, appropriate preprocessing techniques will be applied to clean the datasets. This will involve using appropriate tools and techniques such as data normalization, data filtering, and data transformation to preprocess the datasets. Moreover, the proposed approach will utilize multiple IoT-specific datasets such as IoT-23, Bot-IoT, and TON-IoT to obtain a representative dataset for model training.
+
+(b) Ensemble feature selection techniques: To address the challenge of building lightweight models that can operate on resource-constrained IoT devices, the proposed approach will employ ensemble feature selection methods combining Chi-square, Correlation Feature Selection (CFS), Gain Ratio (GR), and Minimum-Redundancy-Maximum-Relevance (MRMR) with majority voting mechanisms to determine the most presentative features. Ensemble feature selection is expected to provide better feature selection and improve model performance, while also reducing the size of the machine learning model.
+
+(c) Addressing classification bias: To address the challenge of imbalanced class distribution, the proposed approach will utilize Synthetic Minority Over-sampling Technique (SMOTE) with traditional machine learning and deep learning classifiers, including Deep Neural Network (DNN), Decision Tree (DT), Support Vector Machine (SVM), and Random Forest (RF). The SMOTE algorithm will generate synthetic minority samples to balance the class distribution, thus reducing classification bias.
+
+(d) Model Evaluation: To evaluate the proposed algorithm, the approach will use cross-validation and performance metrics such as accuracy, precision, F1-score, sensitivity, and the AUC value of the ROC. The research will also employ time complexity analysis to determine the efficiency of the proposed algorithm. Finally, Wilcoxon-signed testing, paired sample t-tests, and research comparisons will be used to verify statistical testing.
+
+(e) Datasets and software: The research will conduct experiments on multiple IoT-specific datasets such as IoT-23, Bot-IoT, and TON-IoT to ensure that the algorithm is validated on diverse and real-world datasets. The experiment will be conducted on different scenarios, including the different class distribution, the number of features, and different sample sizes to evaluate the algorithm's performance under various conditions. To ensure the algorithm's practicality, the proposed approach will be implemented using Python programming language and popular machine learning libraries, such as scikit-learn, Tensorflow, and Keras.
 
 - comment: Methodology is not clear in order to achieve the objectives. Make it precise and focus on the improvement of the algorithm
+- feedback: re-organized the text as above, focusing on the three objectives and implementation.
 
 ## Expected Result: 
 1. Novel theories/New findings/Knowledge
