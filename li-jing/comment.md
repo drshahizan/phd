@@ -46,6 +46,11 @@ The use of appropriate hardware and software is very important in conducting res
 - comment: Methodology is not clear in order to achieve the objectives. Make it precise and focus on the improvement of the algorithm
 
 ## Expected Result: 
+1. Novel theories/New findings/Knowledge
+- original text: (a)	A hybrid of enhanced approach for feature ranking and feature selection
+(b)	An enhanced Synthetic Minority Oversampling Technique with Boost technique (SMOTE Boost) 
+
+- modified text:
 
 - comment: In this proposal several terminologies used. Framework, algorithm, technique, approach. Be consistent, the appropriate term is algorithm, not framework.
 
