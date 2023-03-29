@@ -1,4 +1,3 @@
-
 ## Title: 
 - original text: A novel attack classification framework based on feature manipulation of IoT data for IoT security
 - modified text:
@@ -12,13 +11,21 @@
 
 - comment: Highlight the actual IoT attack classification problem and its uniqueness. Does the normal attack classification cannot solve the problem. State in brief the current state of other research findings and what to improve.
 
-## Research Background: Elaborate in details on IoT attack detection and classification. Focus on the main concern of research, highlight the recent related research and what to improves.
+## Research Background: 
 
-## Objective: Objectives need to tally with the main research issue of IoT attack detection/classification algorithm
+- comment: Elaborate in details on IoT attack detection and classification. Focus on the main concern of research, highlight the recent related research and what to improves.
 
-## Methodology: Methodology is not clear in order to achieve the objectives. Make it precise and focus on the improvement of the algorithm
+## Objective: 
 
-## Expected Result: In this proposal several terminologies used. Framework, algorithm, technique, approach. Be consistent, the appropriate term is algorithm, not framework.
+- comment: Objectives need to tally with the main research issue of IoT attack detection/classification algorithm
+
+## Methodology: 
+
+- comment: Methodology is not clear in order to achieve the objectives. Make it precise and focus on the improvement of the algorithm
+
+## Expected Result: 
+
+- comment: In this proposal several terminologies used. Framework, algorithm, technique, approach. Be consistent, the appropriate term is algorithm, not framework.
 
 ## Track Record and Composition of Team: Related field
 
