@@ -16,6 +16,10 @@
 - comment: Elaborate in details on IoT attack detection and classification. Focus on the main concern of research, highlight the recent related research and what to improves.
 
 ## Objective: 
+- original text: 
+(a)	To identify techniques to handle unclean data in networking and IoT data sets in the pre-processing stage.
+(b)	To construct feature manipulation algorithms in order to select the significant features and reduce overall data size with informative knowledge from networking and IoT data sets in the processing stage.
+(c)	To enhance an integrated synthetic minority oversampling technique with the boost technique and to use classic machine learning and deep neural network classifiers (SMOTE Boost + DT, SVM, RF/DNN) in the post-processing stage to handle class imbalance, alleviate overfitting, and improve model performances with appropriate evaluation measures 
 
 - comment: Objectives need to tally with the main research issue of IoT attack detection/classification algorithm
 
