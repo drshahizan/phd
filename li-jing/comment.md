@@ -26,7 +26,8 @@
 - comment: Objectives need to tally with the main research issue of IoT attack detection/classification algorithm
 
 ## Methodology:
-- original text: 
+- original text:
+
 The research framework, as shown in Figure 1, is divided into five main phases and involves a three-stage framework. Each phase contributes to the outcome of the objectives, respectively. This proposal involves problem identification and formulation in Phase 1. Phase 2 involves data collection and data understanding. While the construction of the classification methods and their algorithms is in Phase 3 and the evaluation measurement is in Phase 4, Finally, Phase 5 is the verification of the obtained results. 
 
 Phase 1: Problem Identification and Formulation. The main purpose of this phase is to have a clearer understanding of the problems faced by researchers in the IoT security field, especially in various attacks on IoT networks. The reviewed articles based on this domain area, involving data collection, data pre-processing, and feature manipulation approaches such as feature ranking, dimensionality reduction, and feature selection, were gathered to understand the problem background in the present and also to make improvements. A literature review is a phase that collects important information from the past, present, and future regarding the conducted research. In this proposal, conceptualization is used to complete a rigorous process on IoT data that consists of handling missing values, non-numerical values, redundant instances, feature manipulation approaches, class imbalance problems, and the classification of attacks in IoT datasets.
