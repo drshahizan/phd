@@ -3,11 +3,10 @@
 - original text: A novel attack classification framework based on feature manipulation of IoT data for IoT security
 - modified text:
 
-- comment: IoT attack classification framework... Can replace framework with algorithm.
+- comment: IoT attack classification framework... Can replace framework with algorithm. Does this research will include attack detection?
 
-## Does this research will include attack detection?
-
-## Executive Summary: Highlight the actual IoT attack classification problem and its uniqueness. Does the normal attack classification cannot solve the problem. State in brief the current state of other research findings and what to improve.
+## Executive Summary: 
+- comment: Highlight the actual IoT attack classification problem and its uniqueness. Does the normal attack classification cannot solve the problem. State in brief the current state of other research findings and what to improve.
 
 ## Research Background: Elaborate in details on IoT attack detection and classification. Focus on the main concern of research, highlight the recent related research and what to improves.
 
