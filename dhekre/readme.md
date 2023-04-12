@@ -18,9 +18,18 @@ A This repository contains the source code and data for my PhD project, which is
 |1/ 06-3-2023|(Pal et al., 2022)| It highlights the importance of early detection for effective treatment of thyroid disorders, and how machine learning can aid in disease prediction and detection. The main objective of the study mentioned is to predict thyroid disease using machine learning classifiers. The text is organized into sections covering related work, methods, results, and conclusion.|The article discusses the comparison of three machine learning algorithms, namely KNN, Decision tree, and MLP for the prediction of thyroid disease. The results showed that MLP performed better in predicting thyroid disease compared to the other two algorithms, with an accuracy of 95.72% and an AUC of 94.23%. The study compared the proposed work with other existing studies and found that the proposed work performs better in the prediction of thyroid disease. The limitations of the ML classifiers were also discussed, and it was suggested that the used machine learning model could also be used for the classification of other chronic diseases with higher accuracy and diagnosis rate. The article concludes that using deep learning methods could further improve the accuracy of prediction of thyroid disease.|
 #
 ### Projects
-|No| Title | Link | Description |
-|--|---|---|---|
-|1|Improving Healthcare Outcomes with a Hybrid Feature Selection Approach for Thyroid Disease Prediction|[:arrow_upper_right:](https://github.com/drshahizan/phd/blob/main/dhekre/Hybrid_Feature_Selection_Approach_for_Thyroid_Disease_Prediction.ipynb)|This project aims to improve the accuracy of thyroid disease prediction by proposing a hybrid method for feature selection that combines a filter and wrapper approach with machine learning techniques using RNNs. By selecting the most relevant features and leveraging deep learning algorithms, the proposed approach could reduce errors, medical costs, and unwanted biases in the clinical decision-making process, leading to better patient outcomes and potentially reducing the incidence of severe consequences like cancer or death associated with thyroid diseases. Further research is needed to evaluate the effectiveness and generalizability of the proposed method...|
+# My Research Papers
+
+This repository contains a list of my research papers. The following table provides a summary of the papers I have submitted:
+
+| #  | Title Paper        | Journal                 |
+|----|--------------------|-------------------------|
+| 1  | SLR Imbalance data   | Baghdad Science Journal    |
+| 2  | SLR High Dimensional | Journal of King Saud University - Computer and Information Sciences|
+| 3  |       |     |
+| 4  |     |    |
+| 5  |     |         |
+
 
 ### list of Journals
 |No| Source Title | Index | APC | Issues per year | Link |Topics covered|
