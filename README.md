@@ -3,7 +3,7 @@
 <a href="https://github.com/drshahizan/phd"><img src="https://img.shields.io/github/issues-pr/drshahizan/phd" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/phd/issues"><img src="https://img.shields.io/github/issues/drshahizan/phd" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/phd/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/phd?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/phd)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fphd&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 Don't forget to hit the :star: if you like this repo.
 
