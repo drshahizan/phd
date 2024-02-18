@@ -24,10 +24,10 @@ This repository contains a list of my research papers. The following table provi
 
 | #  | Title Paper        | Journal                 |
 |----|--------------------|-------------------------|
-| 1  | SLR Imbalance data   | Baghdad Science Journal    |
-| 2  | SLR High Dimensional | Journal of King Saud University - Computer and Information Sciences|
+| 1  | SLR Imbalance data   | Baghdad Science Journal (Published😊😊)   |
+| 2  | SLR High Dimensional | Malaysian Journal of Fundamental and Applied Sciences ()|
 | 3  |   Evaluating the Deep Swarm Optimization Neural Network (DSO-NN) for Thyroid Disease Prediction: A Novel Approach to Enhancing Predictive Analytics in Medicine    | Applied Artificial Intelligence (IF 3.0)    |
-| 4  |     |    |
+| 4  | Effective Techniques for Handling Missing Values in Thyroid Disease Diagnosis: A Comparative Analysis    |  Applied Computational Intelligence and Soft Computing (Q2)  |
 | 5  |     |         |
 
 
