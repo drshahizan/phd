@@ -27,6 +27,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 
 ## Recent Publication
 - [Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. 2024. *A critical review of feature selection methods for machine learning in IoT security*. *International Journal of Communication Networks and Distributed Systems*, **30**(3), 264-312](https://liveutm-my.sharepoint.com/:u:/g/personal/shahizan_live_utm_my/EbuhF-z_hHFHrH6Unw1jkW8Bf03YTvZEGtFta8EgbPE0_w?e=Ak2UdL)
+- 
 - [Al-Rahmi, W.M.; Al-Adwan, A.S.; Al-Maatouk, Q.; **Othman, M.S.**; Alsaud, A.R.; Almogren, A.S.; Al-Rahmi, A.M. Integrating Communication and Task–Technology Fit Theories: The Adoption of Digital Media in Learning. Sustainability 2023, 15, 8144. https://doi.org/10.3390/su15108144](https://www.mdpi.com/2071-1050/15/10/8144)
 - [Aljabarti, Eman Attallah and **Othman, Mohd Shahizan**, Classification Students’ Attention in E-learning Using Machine Learning (January 8, 2023). The 2nd Global Trends in E-Learning Forum (GTEL 2023), Available at SSRN: https://ssrn.com/abstract=4320161 or http://dx.doi.org/10.2139/ssrn.4320161](https://ssrn.com/abstract=4320161)
 
