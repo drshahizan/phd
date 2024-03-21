@@ -20,7 +20,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 | 6 | Zhu Chaihua|The Credit Mechanism of E-Commerce Merchant in the Context of Social Network |[:octocat:](./zhu-chaihua)| <a href="https://github.com/users/drshahizan/projects/3" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 7 | Franklin Degadzor Ashigbi| The post adoption determinants of sustained use of digital transformation in revenue mobilisation in Ghana|[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 8 | | |[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 9 | | |[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 9 | Pan Tong | Multilingual Text Clustering for Minority Languages Based on Contrastive Learning and Reinforcement Learning |[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 
 
 ## [Google Scholar- Dr MSO](https://scholar.google.com/citations?hl=en&user=QzgVq24AAAAJ&view_op=list_works&sortby=pubdate)
