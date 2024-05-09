@@ -10,19 +10,6 @@ Don't forget to hit the :star: if you like this repo.
 # The Daily Life of a PhD Student
 The daily life of a PhD student may differ significantly from that of an undergraduate or Masters student. There will be much more independence and very few 'taught' elements. A typical week will almost certainly include the same number of PhD study hours as a full-time job. This page will give you an idea of what daily routine will be like as a PhD student. You can see my students' sharing materials.
 
-| No | Name | Title |  Github | Project |
-| -----: | ----- | ------ | :------: | :------: |
-| 1. | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | [:octocat:](./li-jing) | <a href="https://github.com/users/drshahizan/projects/1" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 2. | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | [:octocat:](./dhekre) | <a href="https://github.com/users/drshahizan/projects/10" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 3. | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones | [:octocat:](./anwar) | <a href="https://github.com/users/drshahizan/projects/4" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 4. | Li Haopeng | |[:octocat:](./haopeng)| <a href="https://github.com/users/drshahizan/projects/5" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 5. | Zhu Linnan |Benefits of User Factors in the Context of Management Information Systems in the Higher Education Industry.  |[:octocat:](./zhulinnan)| <a href="https://github.com/users/drshahizan/projects/7" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 6. | Zhu Chaihua|The Credit Mechanism of E-Commerce Merchant in the Context of Social Network |[:octocat:](./zhu-chaihua)| <a href="https://github.com/users/drshahizan/projects/3" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 7. | Franklin Degadzor Ashigbi| The post adoption determinants of sustained use of digital transformation in revenue mobilisation in Ghana|[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 8. | Abdulaziz saidu Yalwa | Privacy preserving machine lerning for user behaviour analysis and personalisation in social media plat forms |[:octocat:](./abdulaziz)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 9. | Pan Tong | Multilingual Text Clustering for Minority Languages Based on Contrastive Learning and Reinforcement Learning |[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-
-
 ## [Google Scholar- Dr MSO](https://scholar.google.com/citations?hl=en&user=QzgVq24AAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Recent Publication
@@ -61,6 +48,17 @@ The daily life of a PhD student may differ significantly from that of an undergr
 
 ## [Research Material](https://github.com/drshahizan/research-material)
 
+| No | Name | Title |  Github | Project |
+| -----: | ----- | ------ | :------: | :------: |
+| 1. | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | [:octocat:](./li-jing) | <a href="https://github.com/users/drshahizan/projects/1" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 2. | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | [:octocat:](./dhekre) | <a href="https://github.com/users/drshahizan/projects/10" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 3. | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones | [:octocat:](./anwar) | <a href="https://github.com/users/drshahizan/projects/4" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 4. | Li Haopeng | |[:octocat:](./haopeng)| <a href="https://github.com/users/drshahizan/projects/5" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 5. | Zhu Linnan |Benefits of User Factors in the Context of Management Information Systems in the Higher Education Industry.  |[:octocat:](./zhulinnan)| <a href="https://github.com/users/drshahizan/projects/7" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 6. | Zhu Chaihua|The Credit Mechanism of E-Commerce Merchant in the Context of Social Network |[:octocat:](./zhu-chaihua)| <a href="https://github.com/users/drshahizan/projects/3" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 7. | Franklin Degadzor Ashigbi| The post adoption determinants of sustained use of digital transformation in revenue mobilisation in Ghana|[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 8. | Abdulaziz saidu Yalwa | Privacy preserving machine lerning for user behaviour analysis and personalisation in social media plat forms |[:octocat:](./abdulaziz)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 9. | Pan Tong | Multilingual Text Clustering for Minority Languages Based on Contrastive Learning and Reinforcement Learning |[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/phd/issues) for any improvements, suggestions or errors in the content.
