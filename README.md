@@ -35,7 +35,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 ## Computer Science
 | No | Name | Title |  File |
 | :-----: | ----- | ------ | :------: | 
-| 1 | Rozilawati Dollah @ Md Zain | An Ontology Based Model for Biomedical Text Classification | <a href="https://drive.google.com/drive/u/1/folders/1KSCWtVWZLUPAeNP7MnLD9zCCC8-OBCe8" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| 1 | Rozilawati Dollah @ Md Zain | An Ontology Based Model for Biomedical Text Classification | <a href="https://drive.google.com/drive/folders/1APai56aIMEQsKdmOIu_BH1AkxalGYt8E?usp=sharing" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | 2 | Shamini Raja Kumaran | Enhanced Classification Techniques Based on Gene Manipulation for Cancer Microarray Data | <a href="https://drive.google.com/drive/u/1/folders/1KSCWtVWZLUPAeNP7MnLD9zCCC8-OBCe8" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | 3 | Dewi Octaviani | Semantic Model for Mining E-Learning Usage with Ontology and Meaningful Learning Characteristics | <a href="https://drive.google.com/drive/u/1/folders/12XNQQwF1JDdHW1MThDk29k6a3zY9-BHA" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | 4 | Bahram Amini Valashani | An Ontology-Based Recommender System using Scholar’s Background Knowledge | <a href="https://drive.google.com/drive/u/1/folders/1jjsasglgeFg_yv6_CVxuAQtgFDFJ0uWF" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
