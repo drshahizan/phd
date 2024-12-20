@@ -27,6 +27,13 @@ The daily life of a PhD student may differ significantly from that of an undergr
 | 4 | Bahram Amini Valashani | An Ontology-Based Recommender System using Scholar’s Background Knowledge | <a href="https://drive.google.com/drive/folders/1jjsasglgeFg_yv6_CVxuAQtgFDFJ0uWF?usp=drive_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | 5 | Arda Yunianta | Ontology-Based Semantic Heterogeneous Data Integration Framework for Learning Environment | <a href="https://drive.google.com/drive/folders/119DWjJGSCM73sVaZkvAN9U6EmhgZhcZP?usp=sharing" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
+### Other student
+
+| No | Name | Title |  File |
+| :-----: | ----- | ------ | :------: | 
+| 1 | Rozilawati Dollah @ Md Zain | An Ontology Based Model for Biomedical Text Classification | <a href="https://drive.google.com/drive/folders/1APai56aIMEQsKdmOIu_BH1AkxalGYt8E?usp=sharing" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+
+
 ## Social Science
 | No | Name | Title |  File |
 | ----- | ----- | ------ | :------: | 
