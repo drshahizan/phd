@@ -31,7 +31,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 
 | No | Name | Title |  File |
 | :-----: | ----- | ------ | :------: | 
-| 1 | Xu Deren | Blended Ensemble Model For Prediction Of Infectious Diseases | <a href="https://drive.google.com/drive/folders/1kut5WDTxWWgsj3opcptZId9oBd2OM9Jt?usp=sharing" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| 1 | Xu Deren | Blended Ensemble Model for Prediction of Infectious Diseases | <a href="https://drive.google.com/drive/folders/1kut5WDTxWWgsj3opcptZId9oBd2OM9Jt?usp=sharing" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
 
 ## Social Science
