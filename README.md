@@ -54,7 +54,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 ## 📖 MSc Data Science
 | No | Name | Title |  File |
 | :-----: | ----- | ------ | :------: | 
-| 1. | Nur Afrina Binti Mohamad Abdul Ghafar| Proposal (Slide) | Performance Analysis Between Linear Regression and XGboost Regression Algorithms in Forecasting Demand Inventory | <a href="https://docs.google.com/presentation/d/1G7XHu6WjwB6ZWWPbmUtFaMB8mr2E594o/edit?usp=sharing&ouid=116754994049085925053&rtpof=true&sd=true" ><img src="../images/ibooks.png" width="24px" height="24px" ></a>|
+| 1. | Nur Afrina Binti Mohamad Abdul Ghafar| Performance Analysis Between Linear Regression and XGboost Regression Algorithms in Forecasting Demand Inventory | <a href="https://docs.google.com/presentation/d/1G7XHu6WjwB6ZWWPbmUtFaMB8mr2E594o/edit?usp=sharing&ouid=116754994049085925053&rtpof=true&sd=true" ><img src="../images/ibooks.png" width="24px" height="24px" ></a>|
 
 
 ## [Research Material](https://github.com/drshahizan/research-material)
