@@ -54,9 +54,8 @@ The daily life of a PhD student may differ significantly from that of an undergr
 ## 📖 MSc Data Science
 | No | Name | Title |  File |
 | :-----: | ----- | ------ | :------: | 
-| 1. | Nur Afrina Binti Mohamad Abdul Ghafar| Performance Analysis Between Linear Regression and XGboost Regression Algorithms in Forecasting Demand Inventory | <a href="https://docs.google.com/presentation/d/1G7XHu6WjwB6ZWWPbmUtFaMB8mr2E594o/edit?usp=sharing&ouid=116754994049085925053&rtpof=true&sd=true" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>|
-| 2. | Abubakar Sadiq Muahammad | Sentiment Analysis and Rating Prediction  for an E-Commerce Platforms in Malaysia using CNN and LSTM
- | <a href="https://docs.google.com/presentation/d/1G7XHu6WjwB6ZWWPbmUtFaMB8mr2E594o/edit?usp=sharing&ouid=116754994049085925053&rtpof=true&sd=true" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>|
+| 1. | Nur Afrina Binti Mohamad Abdul Ghafar| Performance Analysis Between Linear Regression and XGboost Regression Algorithms in Forecasting Demand Inventory | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=drive_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>|
+| 2. | Abubakar Sadiq Muahammad | Sentiment Analysis and Rating Prediction  for an E-Commerce Platforms in Malaysia using CNN and LSTM | <a href="https://drive.google.com/drive/folders/1qWTab1CFhBv_eBgr2tHIYP-ma-8tIt2b?usp=drive_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>|
 
 
 ## [Research Material](https://github.com/drshahizan/research-material)
