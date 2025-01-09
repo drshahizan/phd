@@ -14,7 +14,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 
 ## Phd students
 
-## Computer Science
+### Computer Science
 | No | Name | Title |  File |
 | :-----: | ----- | ------ | :------: | 
 | 1 | Rozilawati Dollah @ Md Zain | An Ontology Based Model for Biomedical Text Classification | <a href="https://drive.google.com/drive/folders/1APai56aIMEQsKdmOIu_BH1AkxalGYt8E?usp=sharing" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
@@ -23,14 +23,14 @@ The daily life of a PhD student may differ significantly from that of an undergr
 | 4 | Bahram Amini Valashani | An Ontology-Based Recommender System using Scholar’s Background Knowledge | <a href="https://drive.google.com/drive/folders/1jjsasglgeFg_yv6_CVxuAQtgFDFJ0uWF?usp=drive_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | 5 | Arda Yunianta | Ontology-Based Semantic Heterogeneous Data Integration Framework for Learning Environment | <a href="https://drive.google.com/drive/folders/119DWjJGSCM73sVaZkvAN9U6EmhgZhcZP?usp=sharing" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
-### Other student
+#### Other student
 
 | No | Name | Title |  File |
 | :-----: | ----- | ------ | :------: | 
 | 1 | Xu Deren | Blended Ensemble Model for Prediction of Infectious Diseases | <a href="https://drive.google.com/drive/folders/1kut5WDTxWWgsj3opcptZId9oBd2OM9Jt?usp=sharing" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
 
-## Social Science
+### Social Science
 | No | Name | Title |  File |
 | ----- | ----- | ------ | :------: | 
 | 1 | Ernie Mazuin Mohd Yusof | Individual Level Determinants Model for Benefit Use of Business Intelligence in Malaysia Manufacturing Organizations| <a href="https://drive.google.com/drive/u/1/folders/1qqIaFnxY4lwsh6BDsrFc45x8EtlGEYNK" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
@@ -39,7 +39,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 | 4 | Waleed Mugahed Ali Al-Rahmi | The Impact of Social Media Use in Collaborative Learning Towards Learning Performance Among Research Students | <a href="https://drive.google.com/drive/u/1/folders/1Hvq5NpT-XriLs3M9hL6_-TBGfWIsqbWg" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | 5 | Mahdi Alhaji Musa | Knowledge Map, Enterprise Ontology and Lean for enhancing Business Process Re-Engineering in Healthcare  | <a href="https://drive.google.com/drive/u/1/folders/1-vs8WWvx4l9K4QHpYEcO2CDv24RiDZz3" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
-## 📖 Phd: Proposal
+### 📖 Phd: Proposal
 | No | Name | Title |  File |
 | -----: | ----- | ------ | ------ | 
 | 1. | Zhu Chaihua | A Model of Customer Stickiness for Cross-Border Social E-Commerce Platform in China |<a href="https://drive.google.com/drive/folders/1kmzNFoCldFtzBWCJZ8DoRQENwYTQWBsl?usp=drive_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
@@ -47,7 +47,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 | 3. | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | <a href="https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>
 | 4. | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | <a href="https://drive.google.com/drive/u/1/folders/128OOMGs6TJEXIsu1Xetfx19ZKxeekUXS" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
-## 📖 MSc Data Science
+### 📖 MSc Data Science
 | No | Name | Title |  File |
 | :-----: | ----- | ------ | :------: | 
 | 1. | Nur Afrina Binti Mohamad Abdul Ghafar| Cooking Oil Price Forecasting Using SARIMA and LSTM in Malaysia | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=drive_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>|
