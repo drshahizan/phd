@@ -10,6 +10,7 @@
 
 - 📚 [The Things of PhD Journey](https://github.com/goldboy225/PhD-Journey): All the things involving research knowledge, publication, practical skills, awesome courses, domain area expertise, and all the necessary and interesting things will be collected and synthesized for who want to try and pursue the PhD journey (will keep updating).
 - 📚 [Daily Literature Review](https://github.com/goldboy225/PhD-Journey/blob/main/Literatures%20Daily.md): This is the repository for daily literature review to collect the-state-of-the art ideas and methodologies in academia and provide future research directions.
+- 📚 [Published Papers](https://github.com/goldboy225/Published-Papers): Here are the papers published during my PhD journey.
 - 🔭 [Code Base for Research](https://github.com/goldboy225/Code-Base-for-Research): The coding practice involving data cleaning, data visualization, exploration data analysis, feature selection, machine learning and deep learning.
 - 📫 [ChatGPT for Research](https://github.com/goldboy225/ChatGPT-for-Research): Repo for the stuff that created by ChatGPT, let's see how ChatGPT can help on research work.
 - 🌱 [Construction of IoT Security Frameworks](https://github.com/goldboy225/Intelligent-IoT-Security-Frameworks): This is the coding practice repo of constructing end-to-end machine learning and deep learning-based security frameworks for IoT security.
