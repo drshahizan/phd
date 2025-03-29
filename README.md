@@ -60,20 +60,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 | 1. | Nur Afrina Binti Mohamad Abdul Ghafar| Cooking Oil Price Forecasting Using SARIMA and LSTM in Malaysia | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=drive_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>|
 | 2. | Abubakar Sadiq Muahammad | Sentiment Analysis and Rating Prediction  for an E-Commerce Platforms in Malaysia using CNN and LSTM | <a href="https://drive.google.com/drive/folders/1qWTab1CFhBv_eBgr2tHIYP-ma-8tIt2b?usp=drive_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>|
 
-
 ## [Research Material](https://github.com/drshahizan/research-material)
-
-| No | Name | Title |  Github | Project |
-| -----: | ----- | ------ | :------: | :------: |
-| 1. | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | [:octocat:](./li-jing) | <a href="https://github.com/users/drshahizan/projects/1" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 2. | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | [:octocat:](./dhekre) | <a href="https://github.com/users/drshahizan/projects/10" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 3. | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones | [:octocat:](./anwar) | <a href="https://github.com/users/drshahizan/projects/4" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 4. | Li Haopeng | |[:octocat:](./haopeng)| <a href="https://github.com/users/drshahizan/projects/5" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 5. | Zhu Linnan |Benefits of User Factors in the Context of Management Information Systems in the Higher Education Industry.  |[:octocat:](./zhulinnan)| <a href="https://github.com/users/drshahizan/projects/7" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 6. | Zhu Chaihua|The Credit Mechanism of E-Commerce Merchant in the Context of Social Network |[:octocat:](./zhu-chaihua)| <a href="https://github.com/users/drshahizan/projects/3" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 7. | Franklin Degadzor Ashigbi| The post adoption determinants of sustained use of digital transformation in revenue mobilisation in Ghana|[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 8. | Abdulaziz saidu Yalwa | Privacy preserving machine lerning for user behaviour analysis and personalisation in social media plat forms |[:octocat:](./abdulaziz)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 9. | Pan Tong | Multilingual Text Clustering for Minority Languages Based on Contrastive Learning and Reinforcement Learning |[:octocat:](./franklin)| <a href="https://github.com/users/drshahizan/projects/8" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/phd/issues) for any improvements, suggestions or errors in the content.
