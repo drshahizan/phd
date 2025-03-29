@@ -5,8 +5,6 @@
 <a href="https://github.com/drshahizan/phd/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/phd?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fphd&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-Don't forget to hit the :star: if you like this repo.
-
 # The Daily Life of a PhD Student
 The daily life of a PhD student may differ significantly from that of an undergraduate or Masters student. There will be much more independence and very few 'taught' elements. A typical week will almost certainly include the same number of PhD study hours as a full-time job. This page will give you an idea of what daily routine will be like as a PhD student. You can see my students' sharing materials.
 
