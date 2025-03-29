@@ -13,9 +13,11 @@ The daily life of a PhD student may differ significantly from that of an undergr
 ## [Google Scholar- Dr MSO](https://scholar.google.com/citations?hl=en&user=QzgVq24AAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Latest article
-1. Zhu, L., Othman, M. S. B., & Yusuf, L. B. M. (2025). Relationship between language preferences and performance in the use of management information systems by university faculty and staff. Frontiers in Language Studies, 7(2). https://doi.org/10.30564/fls.v7i2.8262
-
-
+1. Zhu, L., Othman, M. S. B., & Yusuf, L. B. M. (2025). Relationship between language preferences and performance in the use of management information systems by university faculty and staff. *Frontiers in Language Studies*, 7(2). https://doi.org/10.30564/fls.v7i2.8262
+2. Saleh, D. S., Othman, M. S., Khudhur, W. O., & Aljabarti, E. A. (2025). Effective techniques for handling missing values in thyroid disease diagnosis: A comparative analysis. *Advances in Computational Intelligence Systems*, 7(2). https://doi.org/10.1155/acis/2766701
+3. Li, J., Chen, H., Othman, M. S., Salim, N., Yusuf, L. M., & Kumaran, S. R. (2025). NFIoT-GATE-DTL IDS: Genetic algorithm-tuned ensemble of deep transfer learning for NetFlow-based intrusion detection system for internet of things. *Engineering Applications of Artificial Intelligence*, 143, 110046. https://doi.org/10.1016/j.engappai.2025.110046
+4. Li, J., Othman, M. S., Hewan, C., & Yusuf, L. M. (2025). IoT security: A systematic literature review of feature selection methods for machine learning-based attack classification. *International Journal of Electronic Security and Digital Forensics*, 17(1-2). https://doi.org/10.1504/IJESDF.2025.100475
+5. Zhu, L., Othman, M. S. B., Yusuf, L. B. M., & Sun, X. (2025). User acceptance and sustainable adoption of university management information systems: A cross-cultural study. *Salud, Ciencia y Tecnología-Serie de Conferencias*, 13. https://doi.org/10.56294/sctconf20251239
 
 ## Phd students
 
