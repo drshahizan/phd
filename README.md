@@ -18,6 +18,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 3. Li, J., Chen, H., Othman, M. S., Salim, N., Yusuf, L. M., & Kumaran, S. R. (2025). NFIoT-GATE-DTL IDS: Genetic algorithm-tuned ensemble of deep transfer learning for NetFlow-based intrusion detection system for internet of things. *Engineering Applications of Artificial Intelligence*, 143, 110046. https://doi.org/10.1016/j.engappai.2025.110046
 4. Li, J., Othman, M. S., Hewan, C., & Yusuf, L. M. (2025). IoT security: A systematic literature review of feature selection methods for machine learning-based attack classification. *International Journal of Electronic Security and Digital Forensics*, 17(1-2). https://doi.org/10.1504/IJESDF.2025.100475
 5. Zhu, L., Othman, M. S. B., Yusuf, L. B. M., & Sun, X. (2025). User acceptance and sustainable adoption of university management information systems: A cross-cultural study. *Salud, Ciencia y Tecnología-Serie de Conferencias*, 13. https://doi.org/10.56294/sctconf20251239
+6. Badauraudine, M. F. M., Noor, M. N. M. M., Othman, M. S., & Nasir, H. B. M. (2024). Detection and tracking of people in a dense crowd through deep learning approach: A systematic literature review. *Information Research Communications*, 1(2), 65-73. https://doi.org/10.5530/irc.1.2.10
 
 ## Phd students
 
