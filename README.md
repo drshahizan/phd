@@ -12,6 +12,11 @@ The daily life of a PhD student may differ significantly from that of an undergr
 
 ## [Google Scholar- Dr MSO](https://scholar.google.com/citations?hl=en&user=QzgVq24AAAAJ&view_op=list_works&sortby=pubdate)
 
+## Latest article
+1. Zhu, L., Othman, M. S. B., & Yusuf, L. B. M. (2025). Relationship between language preferences and performance in the use of management information systems by university faculty and staff. Frontiers in Language Studies, 7(2). https://doi.org/10.30564/fls.v7i2.8262
+
+
+
 ## Phd students
 
 ### Computer Science
