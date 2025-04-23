@@ -1,7 +1,6 @@
 
-## 📘 Chapter 3: Methodology – Detailed Feedback
+# 📘 Chapter 3: Methodology – Detailed Feedback
 
----
 
 ### 📌 **1. Research Design**
 
