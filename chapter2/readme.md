@@ -7,6 +7,9 @@
 
 # Chapter 2: Literature Review
 
+1. [Literature Review structure](lr1.md)
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/phd/issues) for any improvements, suggestions or errors in the content.
 
