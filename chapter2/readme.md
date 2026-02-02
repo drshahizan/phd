@@ -12,7 +12,7 @@
 3. [Common Examiner Criticism vs. Ideal Response](lr3.md)
 4. [Mapping Table: Literature → Constructs → Hypotheses](lr4.md)
 5. [Sample Critical Synthesis Paragraphs (Before vs. After)](lr5.md)
-6. 
+6. [Checklist: Converting Descriptive Writing into Critical Synthesis](lr6.md)
 
 
 
