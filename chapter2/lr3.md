@@ -5,10 +5,11 @@
 <a href="https://github.com/drshahizan/phd/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/phd?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fphd&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# **Common Examiner Criticism vs. Ideal Response (Chapter 2 – Literature Review)**
 
-| **Common Examiner Criticism**                                                 | **What the Examiner Really Means**| **Ideal Candidate Response (Viva-Ready)**|
-| -- | -- |  |
+## **Common Examiner Criticism vs. Ideal Response (Chapter 2 – Literature Review)**
+
+| **Common Examiner Criticism**                                                 | **What the Examiner Really Means**                             | **Ideal Candidate Response (Viva-Ready)**                                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *“This chapter is too descriptive.”*                                          | You summarised studies without analysing or synthesising them. | **“I acknowledge this concern. I revised the chapter to synthesise studies thematically, comparing findings, methodologies, and contexts rather than listing individual studies. I also highlighted contradictions and gaps that directly informed my conceptual framework.”**                      |
 | *“You have reviewed many papers, but I do not see a clear research gap.”*     | The novelty of the study is not explicit.                      | **“The research gap is derived from the SLR findings, which reveal limited empirical validation of the proposed relationships in Middle Eastern contexts and inconsistent results across prior studies. These gaps are summarised in Section 2.6.4.”**                                              |
 | *“Why did you choose this theory and not others?”*                            | The theoretical justification is weak.                         | **“I selected this theory because it has been widely validated in IS research and aligns closely with the study objectives. However, my review also shows that its application in Middle Eastern contexts is limited, which justifies its re-examination and contextual extension in this study.”** |
@@ -24,7 +25,6 @@
 | *“The contribution of Chapter 2 is unclear.”*                                 | The chapter does not add value beyond summary.                 | **“Chapter 2 contributes by synthesising fragmented literature, identifying empirically grounded research gaps through SLR, and providing a justified conceptual framework tailored to the Middle East context.”**                                                                                  |
 
 
-
 ### 🎓 **Viva Survival Tip (Supervisor Advice)**
 
 When responding to examiner criticism:
@@ -32,6 +32,14 @@ When responding to examiner criticism:
 * **Acknowledge first** (never argue defensively)
 * **Refer to evidence in the chapter** (sections, tables, figures)
 * **Link every answer back to research gaps and contribution**
+
+If you like, I can next:
+
+* Prepare a **one-page viva defence script for Chapter 2**
+* Create a **mapping table: literature → constructs → hypotheses**
+* Draft **model answers for difficult examiner follow-up questions**
+
+Just tell me what you want next.
 
 
 ## Contribution 🛠️
