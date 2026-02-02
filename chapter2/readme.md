@@ -13,6 +13,7 @@
 4. [Mapping Table: Literature → Constructs → Hypotheses](lr4.md)
 5. [Sample Critical Synthesis Paragraphs (Before vs. After)](lr5.md)
 6. [Checklist: Converting Descriptive Writing into Critical Synthesis](lr6.md)
+7. [Importance and Purpose of Chapter 2 (Literature Review)](lr7.md)
 
 
 
