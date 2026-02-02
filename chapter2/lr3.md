@@ -5,14 +5,9 @@
 <a href="https://github.com/drshahizan/phd/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/phd?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fphd&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Below is a **UTM-style “Common Examiner Criticism vs. Ideal Response” table** specifically designed for **Chapter 2 (Literature Review)** of a **PhD in Information Systems**, with **Systematic Literature Review (SLR)** and a **Middle East case study** in mind.
-This table is suitable for **viva preparation**, **mock defence**, and **supervisory guidance**.
+# **Common Examiner Criticism vs. Ideal Response (Chapter 2 – Literature Review)**
 
-
-
-## **Common Examiner Criticism vs. Ideal Response (Chapter 2 – Literature Review)**
-
-| **Common Examiner Criticism**                                                 | **What the Examiner Really Means**                             | **Ideal Candidate Response (Viva-Ready)**                                                                                                                                                                                                                                                           |
+| **Common Examiner Criticism**                                                 | **What the Examiner Really Means**| **Ideal Candidate Response (Viva-Ready)**|
 | -- | -- |  |
 | *“This chapter is too descriptive.”*                                          | You summarised studies without analysing or synthesising them. | **“I acknowledge this concern. I revised the chapter to synthesise studies thematically, comparing findings, methodologies, and contexts rather than listing individual studies. I also highlighted contradictions and gaps that directly informed my conceptual framework.”**                      |
 | *“You have reviewed many papers, but I do not see a clear research gap.”*     | The novelty of the study is not explicit.                      | **“The research gap is derived from the SLR findings, which reveal limited empirical validation of the proposed relationships in Middle Eastern contexts and inconsistent results across prior studies. These gaps are summarised in Section 2.6.4.”**                                              |
