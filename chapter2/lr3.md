@@ -33,13 +33,6 @@ When responding to examiner criticism:
 * **Refer to evidence in the chapter** (sections, tables, figures)
 * **Link every answer back to research gaps and contribution**
 
-If you like, I can next:
-
-* Prepare a **one-page viva defence script for Chapter 2**
-* Create a **mapping table: literature → constructs → hypotheses**
-* Draft **model answers for difficult examiner follow-up questions**
-
-Just tell me what you want next.
 
 
 ## Contribution 🛠️
