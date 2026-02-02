@@ -5,57 +5,171 @@
 <a href="https://github.com/drshahizan/phd/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/phd?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fphd&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-
-
-# **Mapping Table: Literature → Constructs → Hypotheses**
-
-## **Purpose of the Table**
-
-This table illustrates how **constructs and hypotheses** are **systematically derived from the literature**, ensuring that the proposed research model is **theory-driven and evidence-based**, rather than intuitive.
+# **Checklist: Converting Descriptive Writing into Critical Synthesis**
 
 
 
-## **Literature–Construct–Hypothesis Mapping**
+## **A. Structural Transformation**
 
-| **Key Literature Source(s)**                  | **Theory / Model**            | **Key Findings from Literature**                                                                            | **Derived Construct(s)**  | **Proposed Hypothesis**                                                                                               |
-| --------------------------------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Davis (1989); Venkatesh et al. (2003)         | **TAM / UTAUT**               | Perceived usefulness and ease of use significantly influence users’ intention to adopt information systems. | **Perceived Usefulness**  | **H1:** Perceived usefulness has a positive effect on users’ intention to use the system.                             |
-| DeLone & McLean (2003); Petter et al. (2008)  | **IS Success Model**          | System quality directly influences user satisfaction and system usage.                                      | **System Quality**        | **H2:** System quality has a positive effect on user satisfaction.                                                    |
-| DeLone & McLean (2003)                        | **IS Success Model**          | High-quality information enhances user trust and satisfaction.                                              | **Information Quality**   | **H3:** Information quality has a positive effect on user satisfaction.                                               |
-| Gefen et al. (2003); McKnight et al. (2011)   | **Trust Theory**              | Trust plays a critical role in reducing uncertainty and increasing system adoption.                         | **User Trust**            | **H4:** User trust has a positive effect on intention to use the system.                                              |
-| Venkatesh et al. (2012)                       | **UTAUT2**                    | Social influence significantly affects technology adoption, especially in collectivist cultures.            | **Social Influence**      | **H5:** Social influence positively affects intention to use the system.                                              |
-| Goodhue & Thompson (1995)                     | **Task–Technology Fit (TTF)** | A better fit between task requirements and system functionality improves performance outcomes.              | **Task–Technology Fit**   | **H6:** Task–technology fit has a positive effect on user performance.                                                |
-| DeLone & McLean (2016); Rai et al. (2002)     | **IS Success Model**          | User satisfaction mediates the relationship between system characteristics and net benefits.                | **User Satisfaction**     | **H7:** User satisfaction positively affects net benefits.                                                            |
-| Institutional studies in Middle East contexts | **Institutional Theory**      | Organisational and regulatory environments influence IS adoption in the Middle East.                        | **Institutional Support** | **H8:** Institutional support positively moderates the relationship between intention to use and actual system usage. |
+☐ **Grouped studies by theme, not by author**
+❌ *“Smith (2020) studied… Jones (2021) found…”*
+✅ *“Prior studies examining system quality consistently report…”*
 
+☐ **Each paragraph has one clear analytical focus**
+→ One concept, one relationship, or one debate per paragraph.
 
-
-## **Optional: Context-Specific Extension (Highly Recommended for PhD)**
-
-| **SLR-Based Evidence**                   | **Observed Gap**                         | **Extended Construct / Relationship**         | **Additional Hypothesis**                                                                              |
-| ---------------------------------------- | ---------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Limited Middle East empirical validation | Contextual bias towards Western settings | Cultural or regulatory factors not integrated | **H9:** Cultural context moderates the relationship between perceived usefulness and intention to use. |
-| Inconsistent findings on trust           | Measurement inconsistency                | Trust rarely modelled as mediator             | **H10:** User trust mediates the relationship between system quality and intention to use.             |
+☐ **Paragraphs follow a logic chain**
+**Theme → Evidence → Comparison → Evaluation → Gap**
 
 
 
-## **How Examiners Interpret This Table**
+## **B. Analytical Depth**
 
-✔ Demonstrates **clear lineage from literature to hypotheses**
-✔ Shows **independent analytical thinking**
-✔ Confirms that hypotheses are **not arbitrarily formulated**
-✔ Strengthens **construct validity and theoretical justification**
+☐ **Compared findings across studies**
+→ Highlight **similarities, differences, and contradictions**.
+
+☐ **Explained why findings differ**
+→ Context, methodology, sample, theory, or measurement differences.
+
+☐ **Moved beyond ‘what’ to ‘why’**
+Ask: *Why does this finding matter for the research problem?*
 
 
 
-## **Supervisor Tips (Very Important)**
+## **C. Use of Evidence**
 
-* Each hypothesis should be supported by **at least 2–3 high-quality sources**
-* Avoid one-to-one mapping (1 paper → 1 hypothesis)
-* Explicitly reference this table in text:
+☐ **Used multiple sources to support one argument**
+→ Avoid one-study-one-claim writing.
 
-  > *“Table X summarises how the proposed constructs and hypotheses are derived from prior literature.”*
+☐ **Prioritised high-impact and recent studies**
+→ Q1/Q2 journals, seminal works, and authoritative reviews.
 
+☐ **Integrated SLR findings into the discussion**
+→ Refer to patterns, trends, and gaps, not paper counts.
+
+
+
+## **D. Critical Voice (Candidate’s Voice)**
+
+☐ **Explicitly evaluated prior studies**
+Use phrases such as:
+
+* *“However, existing studies tend to…”*
+* *“This approach overlooks…”*
+* *“These findings remain inconclusive because…”*
+
+☐ **Avoided neutral reporting tone**
+❌ *“The study found that…”*
+✅ *“While these findings suggest…, they are limited by…”*
+
+☐ **Demonstrated independent judgement**
+→ Examiner must “hear” the candidate’s thinking.
+
+
+
+## **E. Theory Integration**
+
+☐ **Linked findings back to theory**
+→ Explain how results **support, extend, or challenge** existing theories.
+
+☐ **Identified theoretical limitations**
+→ Over-reliance on TAM/UTAUT, lack of contextualisation, etc.
+
+☐ **Justified theory selection**
+→ Why this theory is suitable (or insufficient) for the Middle East context.
+
+
+
+## **F. Contextual Awareness (Middle East Focus)**
+
+☐ **Avoided assuming Western generalisability**
+→ Explicitly discussed cultural, institutional, or regulatory differences.
+
+☐ **Compared global vs Middle Eastern findings**
+→ Highlighted convergence and divergence.
+
+☐ **Used context to justify research gap**
+→ Not just “few studies exist,” but *why that matters*.
+
+
+
+## **G. Research Gap Identification**
+
+☐ **Clearly stated what is missing in the literature**
+Examples:
+
+* Under-researched constructs
+* Inconsistent empirical results
+* Weak methodological designs
+* Lack of contextual validation
+
+☐ **Linked each gap to the current study**
+→ Every gap must point to *what this research will do*.
+
+☐ **Avoided vague gap statements**
+❌ *“More research is needed.”*
+✅ *“Existing studies rarely examine…, particularly in…”*
+
+
+
+## **H. Conceptual Framework Readiness**
+
+☐ **Each construct discussed supports the framework**
+→ No “orphan” constructs with no role later.
+
+☐ **Relationships are literature-driven**
+→ Supported by multiple sources and SLR evidence.
+
+☐ **Paragraphs naturally lead to hypotheses**
+→ Reader can predict the hypothesis before seeing it.
+
+
+
+## **I. Paragraph-Level Self-Test (Must Pass All)**
+
+For each paragraph, ask:
+
+☐ Does this paragraph **make an argument**, not just report studies?
+☐ Can I identify a **clear theme or claim**?
+☐ Do I explain **why this literature matters** for my study?
+☐ Is there at least **one evaluative sentence**?
+☐ Does this paragraph help justify my **framework or hypotheses**?
+
+If **any answer is “No”**, the paragraph is still descriptive.
+
+
+
+## **J. Examiner Red Flags (Avoid These)**
+
+🚫 Long paragraphs listing many authors without comparison
+🚫 Repeating tables in text without interpretation
+🚫 Excessive quotations
+🚫 Generic closing sentences (*“Therefore, this is important”*)
+🚫 No link to research objectives
+
+
+
+## 🎓 **Supervisor Gold Rule**
+
+> **Description informs. Synthesis convinces.**
+
+If the paragraph convinces the examiner that:
+
+* the **gap is real**,
+* the **theory is justified**, and
+* the **study is necessary**,
+
+then it has achieved **critical synthesis**.
+
+
+
+If you wish, I can:
+
+* Apply this checklist to **your student’s real Chapter 2 text**
+* Convert one **weak paragraph → examiner-ready version**
+* Create a **one-page “critical synthesis writing template”**
+
+Just tell me what you’d like next.
 
 
 ## Contribution 🛠️
