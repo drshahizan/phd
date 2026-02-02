@@ -9,6 +9,7 @@
 
 1. [Literature Review structure](lr1.md)
 2. [Examiner checklist](lr2.md)
+3. [Common Examiner Criticism vs. Ideal Response](lr2.md)
 
 
 ## Contribution 🛠️
