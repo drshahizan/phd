@@ -8,6 +8,7 @@
 # Chapter 2: Literature Review
 
 1. [Literature Review structure](lr1.md)
+2. [Examiner checklist](lr2.md)
 
 
 ## Contribution 🛠️
