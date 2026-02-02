@@ -162,16 +162,6 @@ If the paragraph convinces the examiner that:
 then it has achieved **critical synthesis**.
 
 
-
-If you wish, I can:
-
-* Apply this checklist to **your student’s real Chapter 2 text**
-* Convert one **weak paragraph → examiner-ready version**
-* Create a **one-page “critical synthesis writing template”**
-
-Just tell me what you’d like next.
-
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/phd/issues) for any improvements, suggestions or errors in the content.
 
