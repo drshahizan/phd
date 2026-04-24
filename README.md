@@ -40,8 +40,7 @@ The daily life of a PhD student may differ significantly from that of an undergr
 ### Social Science
 | No | Name | Title |  File |
 | ----- | ----- | ------ | :------: | 
-| 1 | Zhu Linnan |  A User Related Determinant Model In Management Information System For China Higher Education
- | <a href="https://drive.google.com/drive/folders/138Pj_MnAxx2Q-CVd36ks9HtUE0DbM40N?usp=sharing" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| 1 | Zhu Linnan |  A User Related Determinant Model In Management Information System For China Higher Education | <a href="https://drive.google.com/drive/folders/138Pj_MnAxx2Q-CVd36ks9HtUE0DbM40N?usp=sharing" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | 2 | Ernie Mazuin Mohd Yusof | Individual Level Determinants Model for Benefit Use of Business Intelligence in Malaysia Manufacturing Organizations| <a href="https://drive.google.com/drive/u/1/folders/1qqIaFnxY4lwsh6BDsrFc45x8EtlGEYNK" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | 3 | Qusay Sabah Ishaq Al-Maatouk | Social Media Utilization Model for the Improvement of Academic Performance at Malaysian Higher Education Institutions | <a href="https://drive.google.com/drive/u/1/folders/1SHAcOKLpVSQZKovQ2PAdsDQ0To48E56E" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | 4 | Nur Shamsiah Abdul Rahman | A Model of Behaviour Intention Factors on Social Media Use for Collaborative Learning Affecting Teaching and Learning | <a href="https://drive.google.com/drive/u/1/folders/160y6aoEfS5oWdrOfNFCti4t9ojT0Mbke" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
